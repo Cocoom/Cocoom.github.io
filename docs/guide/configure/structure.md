@@ -5,14 +5,14 @@ Cocoom information is sorted by channels and tags.
 ## What is a channel ?
 A channel is a category used to organize knowledge in your Cocoom.
 
-## Some types of channels
+### Some types of channels
 
 - A service, a BU: #RH, #marketing
 - A cross-cutting project: #ABC Plan, #XYZ Project
 - A community of partners: #franchise, #supplier
 
 
-## Composition of a channel
+### Composition of a channel
 
 - 🔗 A name: A short and evocative name, with or without space, with or without emoji
 - 📄 A description: A very short text that helps to understand the content of the thematic thread
@@ -20,10 +20,10 @@ A channel is a category used to organize knowledge in your Cocoom.
 - 🏞 An image: Optional – An image to represent the topic thread. By default, the visual will use the color of the topic thread and a # white.
 
 
-**Creating / modifying / deleting a channel**
+### Creating / modifying / deleting a channel
 🔓 This part is reserved for the administrator profile!
 
-**To create / modify / delete a thematic thread :**
+## To create / modify / delete a thematic thread
 
 - Click on your profile picture at the top right of your screen and then in “Administration”.
 - Click on « Channel” then create, modify or delete thematic threads
@@ -31,7 +31,7 @@ A channel is a category used to organize knowledge in your Cocoom.
 
 
 
-**Subscribe to a channel**
+### Subscribe to a channel
 To subscribe or unsubscribe to a channel
 
 - Click on your profile picture at the top right of your screen and then on “My Settings”.
@@ -46,7 +46,7 @@ Or
 - For each channel, click on ✅Following or ➕Follow
 
 
-**What’s a tag?**
+## What’s a tag ?
 A tag is a keyword used to identify the memos on Cocoom in order to sort and search them easily.
 Some types of tags :
 
@@ -55,10 +55,10 @@ Some types of tags :
 - Contents: @training
 
 
-**Create a tag**
+### Create a tag
 🔓 This part is restricted to the administrator profile!
 
-**To create / modify / delete a tag :**
+### To create / modify / delete a tag
 
 - Click on your profile picture at the top right of your screen and then on “Administration”.
 
@@ -83,10 +83,9 @@ Some types of tags :
 - ➖ Delete tags by clicking on the cross of the tag you want to delete
 
 
-**Filter memos by tags**
+### Filter memos by tags
 To filter memos by tag :
 
 - Click on “My selection” or a channel
 - Click on the 📝 icon in the top left corner
 - Select the relevant tags and discover the memos corresponding to your curation
-

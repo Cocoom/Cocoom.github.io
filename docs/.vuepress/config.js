@@ -1,3 +1,6 @@
+const moment = require('moment');
+
+
 module.exports = {
   locales: {
     // The key is the path for the locale to be nested under.
@@ -15,7 +18,8 @@ module.exports = {
   },
 
   themeConfig: {
-    displayAllHeaders: true,
+    logo: '/logo.png',
+
     locales: {
       '/': {
         // text for the language dropdown
@@ -31,7 +35,6 @@ module.exports = {
             buttonText: "Refresh"
           }
         },
-        // displayAllHeaders: true,
         sidebar: {
           '/guide/': getSidebarEN() // require('./sidebar/guide/en')
         }
@@ -48,18 +51,19 @@ module.exports = {
           }
         },
         nav: require('./nav/fr'),
-        // displayAllHeaders: true,
         sidebar: {
-          '/guide/': getSidebarFR() // require('./sidebar/guide/fr')
+          '/fr/guide/': getSidebarFR() // require('./sidebar/guide/fr')
         }
       }
     },
 
-    logo: '/logo.png',
-
     nav: require('./nav/en'),
 
-    smoothScroll: true
+    smoothScroll: true,
+
+    displayAllHeaders: true,
+    sidebar: 'auto',
+    sidebarDepth: 2
   },
 
   /* configureWebpack: {
@@ -71,37 +75,60 @@ module.exports = {
   }, */
 
   plugins: [
+    'check-md',
     '@vuepress/medium-zoom',
     '@vuepress/back-to-top',
-    '@vuepress/last-updated'
+    '@vuepress/last-updated',
+    '@vuepress/active-header-links',
+    [
+      '@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          // Don't forget to install moment yourself
+          const moment = require('moment');
+          moment.locale(lang);
+          return moment(timestamp).fromNow();
+        }
+      }
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-130889610-1' // UA-00000000-0
+      }
+    ]
   ]
 }
 
 function getSidebarEN() {
+  const prefix = '/guide';
+
   return [
     {
-      title: 'Install',
-      collapsable: false,
+      title: 'Setup',
+      collapsable: true,
       sidebarDepth: 2,
       children: [
-        ['setup', 'Setup']
+        prefix + '/setup/create',
+        prefix + '/setup/test'
       ]
     },
     {
       title: 'Configure',
-      collapsable: false,
+      collapsable: true,
       sidebarDepth: 2,
       children: [
-        ['configure', 'Configure !']
+        prefix + '/configure/structure'
       ]
     },
     {
       title: 'Use',
-      collapsable: false,
+      collapsable: true,
       sidebarDepth: 2,
       children: [
-        ['use/create', 'Create'],
-        ['use/organize', 'Organize']
+        prefix + '/use/create',
+        prefix + '/use/organize',
+        prefix + '/use/setup'
       ]
     }
   ];
@@ -109,30 +136,33 @@ function getSidebarEN() {
 
 
 function getSidebarFR() {
+  const prefix = '/fr/guide';
+
   return [
     {
-      title: 'Installer',
-      collapsable: false,
+      title: 'Mettre en place',
+      collapsable: true,
       sidebarDepth: 2,
       children: [
-        ['setup', 'Setup']
+        prefix + '/setup/create',
+        prefix + '/setup/setup'
       ]
     },
     {
       title: 'Configurer',
-      collapsable: false,
+      collapsable: true,
       sidebarDepth: 2,
       children: [
-        ['configure', 'Configure !']
+        prefix + '/configure/create',
+        prefix + '/configure/structure'
       ]
     },
     {
       title: 'Utiliser',
-      collapsable: false,
+      collapsable: true,
       sidebarDepth: 2,
       children: [
-        ['use/create', 'Créer'],
-        ['use/organize', 'Structurer']
+        prefix + '/use/integration'
       ]
     }
   ];

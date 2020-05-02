@@ -8,7 +8,6 @@
 
 👉 [https://academy.cocoom.com/](https://academy.cocoom.com/)
 
-
 ### Démarrer en ligne
 
 [👉 https://cocoom.com/prix/](https://cocoom.com/prix/)
@@ -19,7 +18,6 @@ Dans ce cas :
 - Choisissez un titre et une adresse URL à votre Cocoom
 - Validez
 
-
 Une fois votre plateforme créée, vous recevrez un premier email pour vous connecter à votre plateforme Cocoom et pouvoir :
 
 - 🔒 Choisir votre mot de passe
@@ -29,7 +27,7 @@ Une fois votre plateforme créée, vous recevrez un premier email pour vous conn
 
 ## Les étapes
 
-**3 étapes indispensables pour prendre en main son Cocoom**
+3 étapes indispensables pour prendre en main son Cocoom
 
 ### Structurer
 
@@ -39,8 +37,6 @@ Une fois votre plateforme créée, vous recevrez un premier email pour vous conn
 
 [Créer une base de publications](https://cocoom.com/votre-support/creer-une-base-de-publications/)
 
-
 ### Inviter d'autres personnes
 
 [Inviter des utilisateurs](https://cocoom.com/votre-support/inviter-et-gerer-des-utilisateurs/)
-

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 # Ouvrir un Cocoom
 
 ## Les 2 options
@@ -12,7 +8,6 @@ sidebar: auto
 
 👉 [https://academy.cocoom.com/](https://academy.cocoom.com/)
 
-
 ### Démarrer en ligne
 
 [👉 https://cocoom.com/prix/](https://cocoom.com/prix/)
@@ -22,7 +17,6 @@ Dans ce cas :
 - Sélectionnez le type d’abonnement
 - Choisissez un titre et une adresse URL à votre Cocoom
 - Validez
-
 
 Une fois votre plateforme créée, vous recevrez un premier email pour vous connecter à votre plateforme Cocoom et pouvoir :
 
@@ -46,4 +40,3 @@ Une fois votre plateforme créée, vous recevrez un premier email pour vous conn
 ### Inviter d'autres personnes
 
 [Inviter des utilisateurs](https://cocoom.com/votre-support/inviter-et-gerer-des-utilisateurs/)
-

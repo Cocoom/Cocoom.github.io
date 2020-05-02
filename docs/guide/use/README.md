@@ -1,5 +1,1 @@
----
-sidebar: 'auto'
----
-
-About setting up your Cocoom
+# About using your Cocoom

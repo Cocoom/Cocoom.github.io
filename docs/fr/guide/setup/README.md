@@ -1,5 +1,1 @@
----
-sidebar: 'auto'
----
-
-Mise en place de votre Cocoom
+# Mise en place de votre Cocoom
