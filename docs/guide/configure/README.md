@@ -1,0 +1,1 @@
+About configuring your Cocoom

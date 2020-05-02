@@ -1,0 +1,19 @@
+{
+  "name": "cocoom-faq",
+  "version": "1.0.1",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.4.1",
+    "@vuepress/plugin-medium-zoom": "^1.4.1",
+    "serve": "^11.3.0",
+    "vuepress": "^1.4.1"
+  },
+  "scripts": {
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs && touch docs/.vuepress/dist/.nojekyll",
+    "serve-dist": "vuepress build docs && serve docs/.vuepress/dist"
+  },
+  "author": "Cocoom",
+  "license": "ISC"
+}
