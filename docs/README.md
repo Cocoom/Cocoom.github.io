@@ -22,6 +22,6 @@ footer: Copyright © 2020 Cocoom
   </div>
   <div class="feature">
     <h2>🏆 Use it</h2>
-    <p>Cocoom functionalities explained.</p>
+    <p>Cocoom functionalities.</p>
   </div>
 </div>
