@@ -39,6 +39,7 @@ Une fois votre plateforme créée, vous recevrez un premier email pour vous conn
 
 [Créer une base de publications](https://cocoom.com/votre-support/creer-une-base-de-publications/)
 
+
 ### Inviter d'autres personnes
 
 [Inviter des utilisateurs](https://cocoom.com/votre-support/inviter-et-gerer-des-utilisateurs/)
