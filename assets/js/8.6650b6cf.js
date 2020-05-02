@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{335:function(t,n,o){"use strict";o.r(n);var e=o(19),s=Object(e.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("p",[this._v("About configuring your Cocoom")])])}),[],!1,null,null,null);n.default=s.exports}}]);
