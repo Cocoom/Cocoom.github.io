@@ -22,6 +22,7 @@ module.exports = {
 
     locales: {
       '/': {
+        lastUpdated: 'Last Updated', // string | boolean
         // text for the language dropdown
         selectText: 'Languages',
         // label for this locale in the language dropdown
@@ -40,6 +41,7 @@ module.exports = {
         }
       },
       '/fr/': {
+        lastUpdated: 'Dernière mise à jour', // string | boolean
         selectText: 'Langues',
         label: 'Français',
         // Aria Label for locale in the dropdown
@@ -78,7 +80,6 @@ module.exports = {
     'check-md',
     '@vuepress/medium-zoom',
     '@vuepress/back-to-top',
-    '@vuepress/last-updated',
     '@vuepress/active-header-links',
     [
       '@vuepress/last-updated',
