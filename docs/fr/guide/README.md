@@ -1,3 +1,0 @@
-# Guide en français
-
-ferzfzegerz

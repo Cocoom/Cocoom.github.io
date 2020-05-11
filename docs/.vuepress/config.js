@@ -106,20 +106,22 @@ function getSidebarEN() {
 
   return [
     {
-      title: 'Setup',
+      title: 'Introduction',
       collapsable: true,
       sidebarDepth: 2,
       children: [
-        prefix + '/setup/create',
-        prefix + '/setup/test'
+        prefix + '/introduction/presentation',
+        prefix + '/introduction/access'
       ]
     },
     {
-      title: 'Configure',
+      title: 'Getting started',
       collapsable: true,
       sidebarDepth: 2,
       children: [
-        prefix + '/configure/structure'
+        prefix + '/getting-started/users'
+        prefix + '/getting-started/structure'
+        prefix + '/getting-started/users'
       ]
     },
     {

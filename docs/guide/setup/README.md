@@ -1,1 +1,0 @@
-# About setting up your Cocoom
