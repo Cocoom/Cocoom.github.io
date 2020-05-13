@@ -1,8 +1,8 @@
 # Administration
 
-L’espace d’administration est accessible uniquement depuis l’app personnelle, dans la barre latérale gauche. 
+L’espace d’administration est accessible uniquement depuis l’app personnelle, dans la barre latérale gauche.
 
-App Personnelle > Tableau de bord > Administration 
+App Personnelle > Tableau de bord > Administration
 
 ![](https://paper-attachments.dropbox.com/s_FBC5B0C054AD4D43082A0E2DC4412D69AB83598AFCFBA6C61B0013FF268096F6_1589102673137_Plan+de+travail+45cocoom-guides-2.png)
 
@@ -17,12 +17,12 @@ App Personnelle > Tableau de bord > Administration
 - voir et gérer tous les fils thématiques
 - voir et gérer tous les tags
 - concevoir et envoyer des newsletter
-- sélectionner des publications qui apparaitront dans la page “à la une” 
+- sélectionner des publications qui apparaitront dans la page “à la une”
 - voir et gérer tous les utilisateurs
 - consulter les statistiques et les résultats des sondages sur l’ensemble de la plateforme
 
 
-## Publications 
+## Publications
 
 Dans cet onglet, vous pouvez voir l’ensemble des publications de tous les utilisateurs.
 
@@ -38,9 +38,9 @@ Pour chacun d’entre eux vous avez la possibilité de le :
 ![](https://paper-attachments.dropbox.com/s_FBC5B0C054AD4D43082A0E2DC4412D69AB83598AFCFBA6C61B0013FF268096F6_1589102459313_Plan+de+travail+44cocoom-guides-2.png)
 
 
-  
 
-## 🎓 Fils = Structure 
+
+## 🎓 Fils = Structure
 
 Votre base de savoirs visuels Cocoom est **organisée en #fils thématique**. Ces #fils sont les catégories de savoirs que vous allez pouvoir associer à des équipes et ajouter dans les onglets. Si vous possédez les droits administrateurs, vous pouvez modifier la structure de votre base de savoir pour :
 
@@ -55,7 +55,7 @@ Votre base de savoirs visuels Cocoom est **organisée en #fils thématique**. Ce
 - 🔗**Nom** : il faut un nom court et évocateurs, les espaces sont autorisés et vous pouvez ajouter des émojis dans le nom du fil
 - 📄**Description** : un texte court qui aide à comprendre le contenu de ce fil de savoir, pour les autres membres de l’organisation
 - 🏞**Visuel** : vous pouvez ajouter un visuel pour représenter le fil thématique, par defaut le visuel reprend la couleur de votre fil thématique et un # blanc
-- 🎨**Couleur** : votre fil thématique est caractérisé par une couleur principale. Cette couleur sera appliquée automatiquement dans tous les mémos, ce qui permet aux lecteurs de facilement reconnaitre l’origine d’un mémo et d’apporter de la cohérence graphique. Vous pouvez sélectionner la couleur parmi la palette proposée ou indiquer un code couleur Hexadécimal. 
+- 🎨**Couleur** : votre fil thématique est caractérisé par une couleur principale. Cette couleur sera appliquée automatiquement dans tous les mémos, ce qui permet aux lecteurs de facilement reconnaitre l’origine d’un mémo et d’apporter de la cohérence graphique. Vous pouvez sélectionner la couleur parmi la palette proposée ou indiquer un code couleur Hexadécimal.
 
 
 ![](https://paper-attachments.dropbox.com/s_FBC5B0C054AD4D43082A0E2DC4412D69AB83598AFCFBA6C61B0013FF268096F6_1589102271767_Plan+de+travail+39cocoom-guides-3.png)
@@ -99,8 +99,8 @@ Cliquez ensuite sur “**prévisualiser**” en haut à droite
 
 
 - l’éditer pour la modifier
-- la sauvegarder 
-- programmer son envoi 
+- la sauvegarder
+- programmer son envoi
 - l’envoyer immédiatement
 
 
@@ -112,7 +112,7 @@ Cliquez ensuite sur “**prévisualiser**” en haut à droite
 
 ## 🗞 À la une
 
-Cet onglet vous permet de sélectionner jusqu’à 5 publications pour les affiche de façon permanente dans le bandeau haut de la page “à la une”. 
+Cet onglet vous permet de sélectionner jusqu’à 5 publications pour les affiche de façon permanente dans le bandeau haut de la page “à la une”.
 
 Cette page est la première page visible dans la consultation de votre “base de connaissance”
 
@@ -123,7 +123,7 @@ Cette page est la première page visible dans la consultation de votre “base d
 Pour que les autres utilisateurs de Microsoft teams puissent avoir accès à la base Cocoom, vous avez deux possibilités :
 
 
--  **Option 1, SSO** : Vous avez connecté Cocoom au SSO de Microsoft teams lors de l’installation de l’application. Cela implique d’avoir des droits suffisamment élevés pour autoriser la liaison entre votre compte Microsoft et votre compte Cocoom. 
+-  **Option 1, SSO** : Vous avez connecté Cocoom au SSO de Microsoft teams lors de l’installation de l’application. Cela implique d’avoir des droits suffisamment élevés pour autoriser la liaison entre votre compte Microsoft et votre compte Cocoom.
 
 👉 Ajoutez ensuite manuellement toutes les adresses email Microsoft des utilisateurs que vous souhaitez inviter. Ensuite chacun d’entre eux pourra se connecter avec ses identifiants Microsoft Office 365.
 

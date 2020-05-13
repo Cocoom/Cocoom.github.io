@@ -2,8 +2,8 @@
 
 ## Base de connaissance
 
-🌱 Une **Base** Cocoom représente une unité indivisible : 
-même si les fonctionnalités peuvent varier d’un profil à l’autre, tous les utilisateurs accèdent aux mêmes informations et s’authentifient de la même manière. Une **base** est un espace commun et partagé qui ne peut être divisé en sous groupe privatif. 
+🌱 Une **Base** Cocoom représente une unité indivisible :
+même si les fonctionnalités peuvent varier d’un profil à l’autre, tous les utilisateurs accèdent aux mêmes informations et s’authentifient de la même manière. Une **base** est un espace commun et partagé qui ne peut être divisé en sous groupe privatif.
 
 
 > 🌟 Philosophie Cocoom : pour nous, la gestion de la connaissance doit être transversale et ne doit pas avoir de barrières, c’est pourquoi nous avons décidé de ne pas masquer ou cacher des informations sur une base.
@@ -11,7 +11,7 @@ même si les fonctionnalités peuvent varier d’un profil à l’autre, tous le
 **Une base est caractérisée par des éléments fixes :**
 
 - son URL unique : https://(votre-nom).cocoom.com
-- son système d’authentification : simple ou SSO  
+- son système d’authentification : simple ou SSO
 
 **Une base est structurée par des éléments variables :**
 
@@ -26,7 +26,7 @@ C’est la structure obligatoire et indispensable de votre base de connaissance 
 Les #fils thématiques sont l’élément de base qui vous permettent de naviguer dans vos savoirs et de les différencier. Ils fonctionnent comme des catégories.
 
 
-Une **publication s’effectue obligatoirement dans un #fil thématique**, par default celui-ci peut se nommer “Général” ou porter le nom de l’entreprise. 
+Une **publication s’effectue obligatoirement dans un #fil thématique**, par default celui-ci peut se nommer “Général” ou porter le nom de l’entreprise.
 
 Une publication ne peut pas être associée à deux #fils thématiques
 
@@ -37,7 +37,7 @@ Une publication ne peut pas être associée à deux #fils thématiques
 
 - voir comment gérer ses fils
 - astuces création de structure
-## Tags 
+## Tags
 
 Les tags représentent un second niveau de spécification pour une publication, ils permettent d’ajouter des mots clés qui simplifieront le tri ou la recherche des publications.
 
@@ -95,13 +95,13 @@ Selon les cas de figures, vous pouvez pour une base donnée :
 
 ## Bonnes pratiques
 
-Nous vous conseillons de commencer simple !! 
+Nous vous conseillons de commencer simple !!
 
-Peu de #fils thématiques pour commencer à créer un usage fort et de l’échange sur ces #fils restreints. 
+Peu de #fils thématiques pour commencer à créer un usage fort et de l’échange sur ces #fils restreints.
 
 L’architecture de Tag doit être pensée dès le début pour qualifier au mieux l’information et permettre aux utilisateurs de la retrouver efficacement dans le temps.
 
-Lorsque vous vous envisagez un déploiement global et la mise en place des Hubs, nous vous conseillons de le penser en amont. Une technique simple et efficace est de l’organiser sous forme de mindmapping en impliquant toutes les parties prenantes. 
+Lorsque vous envisagez un déploiement global et la mise en place des Hubs, nous vous conseillons de le penser en amont. Une technique simple et efficace est de l’organiser sous forme de mindmapping en impliquant toutes les parties prenantes.
 
 
 

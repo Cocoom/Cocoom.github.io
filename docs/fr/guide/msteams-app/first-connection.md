@@ -1,4 +1,5 @@
 # Première connexion
+
 Lors de votre première connexion à Cocoom, vous passez par 3 étapes d’onboarding sur la plateforme.
 
 **⚠️ Aucune de ces étapes n’est obligatoire, vous pouvez cliquez sur “next” pour passer à la suite**
@@ -8,14 +9,14 @@ Lors de votre première connexion à Cocoom, vous passez par 3 étapes d’onboa
 
 ## Accepter les conditions d’utilisations
 
-C’est indispensable pour continuer, vous pouvez consulter une version simplifiée ou la version complète en ligne. 
+C’est indispensable pour continuer, vous pouvez consulter une version simplifiée ou la version complète en ligne.
 
 
 ![](https://paper-attachments.dropbox.com/s_042AD06CC066ED6C1A952241C5898345CE5BFFF6E035AE65BE95ABAE3F38D4D5_1588949964714_Plan+de+travail+6cocoom-guides_EN.png)
 
 
 
-## Choisir vos abonnements 
+## Choisir vos abonnements
 
 Vos abonnements sont les fils thématiques Cocoom que vous souhaitez suivre de plus près.
 
@@ -31,7 +32,7 @@ dans :  ma base de connaissance > ma sélection > gérer mes abonnements
 
 
 
-## Renseigner votre profil 
+## Renseigner votre profil
 
 En tant qu’utilisateur Cocoom, vous possédez un profil référencé dans l’annuaire Cocoom et visible de tous les autres utilisateur de votre plateforme.
 
@@ -44,15 +45,15 @@ Tableau de bord > mon profil
 
 
 - l’année de votre date de naissance n’apparait pas
-- pour ajouter une compétente ou un super-pouvoir, tapez sur “entrer” pour ajouter le mot ou l’ensemble de mots à votre liste. sinon il ne s’enregistre pas 🙂 
+- pour ajouter une compétente ou un super-pouvoir, tapez sur “entrer” pour ajouter le mot ou l’ensemble de mots à votre liste. sinon il ne s’enregistre pas 🙂
 - pour ajouter un profil Linkedin, il vous suffit de copier / coller votre adresse de profil depuis Linkedin
 - La partie “parcours” est un champs texte libre… à vous de voir ce que vous en faites !
 - le portrait chinois est beaucoup plus parlant lorsque vous y ajoutez des emoji
 
-ASTUCE 
+ASTUCE
 pour faire apparaitre le clavier emoji tapez :
 
-- sur windows : **windows** / **;** 
+- sur windows : **windows** / **;**
 - sur mac : **control** / **command** / **espace**
 
 

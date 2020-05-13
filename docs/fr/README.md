@@ -1,27 +1,22 @@
 ---
 home: true
 heroImage: /home-cocoom-visual.png
-actionText: Démarrer →
-actionLink: /fr/guide/
+actionText: Commencer →
+actionLink: /fr/introduction/presentation
 footer: Copyright © 2020 Cocoom
 ---
 
-<div style="text-align: center">
-  <p>Cocoom est un...</p>
-</div>
-
 <div class="features">
   <div class="feature">
-    <h2>✨ Installer</h2>
-    <p>Pour démarrer rapidement.</p>
-    <a href="/guide/setup">Go -> Setup</a>
+    <h2>✨ Premiers pas</h2>
+    <p style="margin-left: 2em;">👉🏾 <a href="/fr/getting-started/">Se laisser guider</a></p>
   </div>
   <div class="feature">
-    <h2>⚙️ Configurer</h2>
-    <p>Comment paramétrer votre Cocoom.</p>
+    <h2>🎓 Guide</h2>
+    <p>Comment utiliser Cocoom.</p>
   </div>
   <div class="feature">
-    <h2>🏆 Utiliser</h2>
-    <p>Toutes les fonctionnalités de Cocoom.</p>
+    <h2>🏆 Resources sumplémentaires</h2>
+    <p>Info pour les DSI, légal, ...</p>
   </div>
 </div>

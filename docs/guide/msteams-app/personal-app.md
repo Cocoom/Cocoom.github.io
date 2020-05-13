@@ -1,4 +1,5 @@
 # Personal App
+
 Your personal application allows you to manage all your knowledge and to access Cocoom administration (if your profile allows it).
 
 
@@ -24,7 +25,7 @@ You can access it from the 3 small dots, which lead you to all the apps availabl
 
 ## Knowledge base
 
-This tab allows you to access all the knowledge easily. 
+This tab allows you to access all the knowledge easily.
 
 A vertical menu allows you to access :
 

@@ -1,20 +1,20 @@
-# 📔catalogue d’<iframes>
+# Catalogue d’&lt;iframes&gt;
 
 ## Définition
 
-Les iframes vous permettent d’intégrer tout ou partie de votre plateforme Cocoom, pour l’intégrer sur un intranet, un extranet, une page web,…Vous allez pouvoir afficher des parties de votre plateforme de visual knowledge dans d’autres outils.  
+Les iframes vous permettent d’intégrer tout ou partie de votre plateforme Cocoom, pour l’intégrer sur un intranet, un extranet, une page web,…Vous allez pouvoir afficher des parties de votre plateforme de visual knowledge dans d’autres outils.
 
-Vous devez maitriser l’insertion d’iframe sur une page web, ou disposez d’outils qui vous le permettent. 
+Vous devez maitriser l’insertion d’iframe sur une page web, ou disposez d’outils qui vous le permettent.
 
-🕵️‍♂️ Toutes ces “fenêtres” seront toujours protégées, les utilisateurs doivent être autorisés et connectés pour afficher le contenu d’une <iframe> Cocoom, soit par une connexion automatique SSO, soit par leur identifiant Cocoom. Cela ne peut pas être affiché de façon publique sur votre site web.
+🕵️‍♂️ Toutes ces “fenêtres” seront toujours protégées, les utilisateurs doivent être autorisés et connectés pour afficher le contenu d’une &lt;iframes&gt; Cocoom, soit par une connexion automatique SSO, soit par leur identifiant Cocoom. Cela ne peut pas être affiché de façon publique sur votre site web.
 
 Si vous souhaitez diffuser Cocoom à un large public, à une communauté, des forfaits “extranet” autorisant un grand volume de lecteurs sont disponibles, rapprochez-vous du service commercial sales@cocoom.com.
 
 ## Liste des URL d’iframes disponible
 
-☝️ la base est toujours la même : https://xxxx(votrenom).cocoom.com/embed
+☝️ la base de l'URL est toujours la même : https://<VOTRE_DOMAINE>.cocoom.com/embed
 
-Il faut ensuite rajouter ces éléments à la suite de votre URL pour créer votre iframe personnalisée.
+Il faut ensuite rajouter ces éléments d'URL à la suite de votre URL de base pour créer votre iframe personnalisée.
 
 Disponible à partir du **profil 👀 lecteur**  :
 
@@ -38,5 +38,4 @@ Disponible à partir du **profil ✍️👀 contributeur**  :
 | ------------------ | --------- | ---------------------------------- |
 | Rédiger            | /-/editor | page de création d’une publication |
 | Partager           | /-/share  | page de création d’un partage      |
-
 

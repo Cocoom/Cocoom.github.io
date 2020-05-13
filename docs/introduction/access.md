@@ -1,12 +1,13 @@
 # Access & applications
-Your knowledge base is created and available on our Cocoom servers. 
+
+Your knowledge base is created and available on our Cocoom servers.
 
 We are taking great care to keep you safe in the best conditions and we will keep you safe several times a day to guarantee your data.
 
-For and to accede, more possibilities are offered to you. 
+For and to accede, more possibilities are offered to you.
 
 
-## Web App 
+## Web App
 
 Whatever your offer or integration, you can access it through the Cocoom app website by connecting to the unique URL of your base, choosing it when you create the platform.
 
@@ -18,13 +19,11 @@ Whatever your offer or integration, you can access it through the Cocoom app web
 **It cannot be made public, and cannot be displayed in clear text for an unidentified user.**
 
 
-
-
 ## App Microsoft Teams
 
 Cocoom has developed a specific application for Microsoft teams.
 
-**This application allows you to manage and link your Cocoom knowledge base directly in your Microsoft Teams, without having to leave it (at all).** 
+**This application allows you to manage and link your Cocoom knowledge base directly in your Microsoft Teams, without having to leave it (at all).**
 
 This application will soon be available in the Microsoft Teams application store, in the meantime you can download its installation pack for free from our website and configure it in your Microsoft Teams by following the installation procedure described in this guide.
 
@@ -75,11 +74,11 @@ You still have direct access to your Cocoom, from your phone's home screen and w
 
 
 
-## <iframes>
+## &lt;iframes&gt;
 
 The Cocoom knowledge base can be divided into several parts and integrated into other applications simply thanks to its iframe catalogue.
 
-An iframe allows you to display a small part of Cocoom in another page, hiding the navigation elements. 
+An iframe allows you to display a small part of Cocoom in another page, hiding the navigation elements.
 
 These integrations can be done on a web page, or in other tools allowing it like Sharepoint and other intranet.
 
@@ -87,5 +86,5 @@ These integrations can be done on a web page, or in other tools allowing it like
 ![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589109107791_Capture-decran-2019-05-23-a-09.16.19.png)
 
 
-If you wish to test this functionality, nothing could be simpler, you can access our iframe catalog in the configuration section. 
+If you wish to test this functionality, nothing could be simpler, you can access our iframe catalog in the configuration section.
 

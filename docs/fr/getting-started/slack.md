@@ -90,13 +90,13 @@ C’est tout bon pour la configuration du SSO Slack, il ne restera plus qu’à 
 
 Pour recevoir les notifications Cocoom directement dans vos channels Slack, vous devez ajouter un BOT.
 
-Rendez-vous dans la section “**App Home**” et allez jusqu’à la section  “**You’re App presence in Slack**”. Nous allons commencer par éditer l’affichage en cliquant sur “**edit**” de l’app display name” et remplissez les champs à l’identique : 
+Rendez-vous dans la section “**App Home**” et allez jusqu’à la section  “**You’re App presence in Slack**”. Nous allons commencer par éditer l’affichage en cliquant sur “**edit**” de l’app display name” et remplissez les champs à l’identique :
 
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588524542200_image.png)
 
 
 
-## Étape 5 : Finaliser l’installation 
+## Étape 5 : Finaliser l’installation
 
 Dans la section “Install App”, cliquez sur “Install App to Workspace”
 

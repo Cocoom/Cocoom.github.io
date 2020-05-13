@@ -1,4 +1,4 @@
-# Installation App MS Teams
+# Installation de l'App MS Teams
 
 
 ## 1. Installer l'application
@@ -6,11 +6,11 @@
 Il vous faut d’abord installer l’application Cocoom dans votre Microsoft teams.
 Ouvrez l’onglet  “Applications” de Microsoft Teams, vous pouvez ensuite l’installer de façon automatique ou manuelle.
 
-👉 **Depuis Microsoft Teams Apps store**  
+👉 **Depuis Microsoft Teams Apps store**
 Rechercher “Cocoom” dans le catalogue d’applications Microsoft Teams.
 Cliquez sur “installer”.
 
-ou 
+ou
 
 👉 **Télécharger le package d’installation** >> [App & intégration](https://cocoom.com/app-integrations/)
 *Attention, vous devez avoir des droits suffisamment élevés pour effectuer cette opérations. Si ce n’est pas le cas, rapprochez vous d’un administrateur Office 365 dans votre organisation.*
@@ -25,7 +25,7 @@ ou
 
 ( si vous en avez une, passez à l’étape 3)
 
-Une fois l’application Cocoom installée, vous devez créer une base Cocoom, votre plateforme dédiée qui sera intégrée dans Microsoft Teams. 
+Une fois l’application Cocoom installée, vous devez créer une base Cocoom, votre plateforme dédiée qui sera intégrée dans Microsoft Teams.
 
 ******⚠ Pour que votre base soit directement associée à votre Microsoft Teams, vous devez la créer depuis la page de l’application Cocoom dans Microsoft Teams.**
 
@@ -36,7 +36,7 @@ a. Cocoom vous demande l’autorisation de connexion avec vos identifiants Offic
  b. Créez votre base en renseignant  :
 
 - le nom de votre base “xxx” : choix libre
-- l’adresse de votre base “xxxx.cocoom.com” : selon la liste d’URL disponibles 
+- l’adresse de votre base “xxxx.cocoom.com” : selon la liste d’URL disponibles
 - l’usage que vous souhaitez en faire  “choix multiples” : une seule option disponible
 
  👉 plus d’information dans la section “créer une base”

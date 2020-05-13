@@ -1,4 +1,5 @@
-# First connexion
+# First connection
+
 When you first connect to Cocoom, you go through 3 steps of onboarding on the platform.
 
 ⚠️  **None of these steps is mandatory, you can click on "next" to continue.**
@@ -9,18 +10,18 @@ When you first connect to Cocoom, you go through 3 steps of onboarding on the pl
 
 ## Accept the terms of use
 
-This is essential to continue, you can view a simplified version or the full version online. 
+This is essential to continue, you can view a simplified version or the full version online.
 
 
 ![](https://paper-attachments.dropbox.com/s_5717021DC80B8DBE19E6F19439BD7203EF9C799E1613208534D99CB586604C8E_1588951036442_Plan+de+travail+6cocoom-guides_EN.png)
 
 
 
-**Choose your subscriptions** 
+**Choose your subscriptions**
 
 Your subscriptions are the Cocoom thematic threads that you wish to follow more closely.
 
-When you select a feed from this list, all the publications it contains are in your selection: 
+When you select a feed from this list, all the publications it contains are in your selection:
 **my knowledge base > my selection**
 
 You will also be notified by email each time there is a new publication in one of these feeds.

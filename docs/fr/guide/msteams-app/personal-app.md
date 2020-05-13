@@ -1,5 +1,6 @@
 # App personnelle
-Votre application personnelle vous permet de gérer l’ensemble de vos connaissances et d’accéder à l’administration de Cocoom (si votre profil vous le permet) 
+
+Votre application personnelle vous permet de gérer l’ensemble de vos connaissances et d’accéder à l’administration de Cocoom (si votre profil vous le permet)
 
 
 ## Accéder à votre espace personnel
@@ -23,14 +24,14 @@ Vous pouvez y accéder depuis les 3 petits points, qui vous mènent à toutes le
 
 
 
-## Ma base de connaissances 
+## Ma base de connaissances
 
-Cet onglet vous permet d’accéder à l’ensemble des savoirs facilement. Un menu vertical vous permet d’accéder à 
+Cet onglet vous permet d’accéder à l’ensemble des savoirs facilement. Un menu vertical vous permet d’accéder à
 
 
-- **À la une** vous offre une vue synthétique sur les informations importantes de votre base de connaissances. 
+- **À la une** vous offre une vue synthétique sur les informations importantes de votre base de connaissances.
 - **ma selection** : curation des publications en fonction des fils de savoirs auxquels vous êtes abonné, la gestion de vos abonnements s’effectuent en haut à droite de cette page.
-- **mes bookmarks** : ensemble des publications que vous avez marqué d’un bookmark 
+- **mes bookmarks** : ensemble des publications que vous avez marqué d’un bookmark
 - **l’ensemble des fils** disponibles dans votre base.
 
 Chaque vue vous autorise à filtrer l’information et possède un raccourci pour la publication.
@@ -40,7 +41,7 @@ Chaque vue vous autorise à filtrer l’information et possède un raccourci pou
 
 
 
-## Tableau de bord 
+## Tableau de bord
 
 L’onglet tableau de bord vous donne accès à tout votre back office et vous permet de gérer vos publications et l’administration de la plateforme.
 
@@ -54,9 +55,9 @@ L’onglet tableau de bord vous donne accès à tout votre back office et vous p
 
 **Mon Profil**, pour modifier les informations de votre profil/
 
-+ 
++
 
-**Si vous avez un profil “administrateur” vous voyez ici le bouton d’accès pour l’espace d’administration** 
+**Si vous avez un profil “administrateur” vous voyez ici le bouton d’accès pour l’espace d’administration**
 
 ![](https://paper-attachments.dropbox.com/s_B0EF110294C4CCF2C25CCF0850B0E273AD055025C011A598910566C22717393F_1589103815286_Plan+de+travail+47cocoom-guides-2.png)
 

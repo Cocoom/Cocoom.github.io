@@ -1,10 +1,10 @@
-# Installing App MS Teams
+# Installing MS Teams App
 
 ## 1. Install the application
 
 First you need to install the Cocoom application in your Microsoft teams. Open the "Applications" tab of Microsoft Teams, you can then install it automatically or manually.
 
-👉 **From Microsoft Teams Apps store** 
+👉 **From Microsoft Teams Apps store**
 Search for "Cocoom" in the Microsoft Teams application catalog.
 Click on "install".
 

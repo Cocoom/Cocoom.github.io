@@ -1,9 +1,9 @@
 # Présentation Cocoom
 
-## Philosophie 
+## Philosophie
 ****
 
-> 🌟 Nous voulons accompagner les entreprises à partager leurs savoirs de façon transversale et transparente ! Nous militons pour une responsabilisation du partage des savoirs au sein de entreprise pour apporter de la confiance et de la transparence auprès de toutes les équipes.
+> 🌟 Nous voulons accompagner les entreprises à partager leurs savoirs de façon transversale et transparente ! Nous militons pour une responsabilisation du partage des savoirs au sein de l'entreprise pour apporter de la confiance et de la transparence auprès de toutes les équipes.
 
 
 
@@ -24,15 +24,15 @@ La création d’une plateforme est gratuite et s’effectue en ligne sur : http
 La tarification de Cocoom est disponible en ligne sur : https://cocoom.com/prix
 
 
-## L’équipe derrière Cocoom 
+## L’équipe derrière Cocoom
 
 Ergonomes, sociologues, UX designers, docteurs en informatique, chargé d’innovation technologique, professionnels de la communication, consultant-formateur…
 Notre équipe pluridisciplinaire est à vos côtés à chaque étape de votre projet.
 
-Nous sommes convaincus que la technologie seule ne suffit pas à améliorer durablement la performance collective. S’imprégner de l’histoire de votre entreprise, rendre vos collaborateurs acteurs dans l’intégration de votre outil, vous accompagner en vous proposant des formations interactives et collaboratives : autant d’éléments qui feront de votre projet un succès. 
+Nous sommes convaincus que la technologie seule ne suffit pas à améliorer durablement la performance collective. S’imprégner de l’histoire de votre entreprise, rendre vos collaborateurs acteurs dans l’intégration de votre outil, vous accompagner en vous proposant des formations interactives et collaboratives : autant d’éléments qui feront de votre projet un succès.
 
 
-## Nos coordonnées 
+## Nos coordonnées
 
 site web Cocoom : https://cocoom.com
 site formation : https://academy.cocoom.com
