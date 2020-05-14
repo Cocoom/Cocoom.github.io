@@ -2,11 +2,11 @@
 
 ## Knowledge Base
 
-🌱 A **Cocoom plateforme** represents an indivisible unit : 
-even if the functionalities may vary from one profile to another, all users access the same information and authenticate themselves in the same way. A base is a common and shared space that cannot be divided into private subgroups.
+🌱 A **Cocoom platform** represents an indivisible unit :
+Even if the functionalities may vary from one profile to another, all users have access to the same information and authenticate themselves in the same way. A base is a common and shared space that cannot be divided into private subgroups.
 
 
-> 🌟 Cocoom Philosophy: for us, knowledge management must be transversal and must not have any barriers, which is why we have decided not to hide or conceal information on a base.
+> 🌟 Cocoom Philosophy : for us, knowledge management must be transversal and must not have any barriers, which is why we have decided not to hide or conceal information on a knowledge base.
 
 **A base is characterized by fixed elements :**
 
