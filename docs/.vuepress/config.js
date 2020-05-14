@@ -1,5 +1,5 @@
 const moment = require('moment');
-const {getSideBarItem} = require('./sidebar/sidebar');
+const {getSideBarItem, getLabel} = require('./sidebar/sidebar');
 
 
 module.exports = {
@@ -109,14 +109,16 @@ function getGettingStarted(language) {
   const prefix = (language ? '/' + language : '') + '/getting-started';
 
   return [
-    getSideBarItem(language, 'structure', [prefix + '/structure']),
-    getSideBarItem(language, 'install-msteams-app', [prefix + '/install-msteams-app']),
-    getSideBarItem(language, 'slack-integration', [prefix + '/slack']),
-    getSideBarItem(language, 'google-integration', [prefix + '/google']),
-    getSideBarItem(language, 'users', [prefix + '/users']),
-    getSideBarItem(language, 'iframe', [prefix + '/iframe'])
-  ];
-}
+    prefix + '/users',
+    prefix + '/structure',
+    getSideBarItem(language, 'integration', [
+      prefix + '/install-msteams-app',
+      prefix + '/slack',
+      prefix + '/google',
+      prefix + '/iframe'
+    ], true, 0)
+  ]
+};
 
 /**
  * Introduction sidebar
@@ -130,37 +132,62 @@ function getIntroduction(language) {
     prefix + '/presentation',
     prefix + '/access'
   ];
-}
+};
 
 
-function getGuideMSTeamsApp_Subdirectory(parentPath, language) {
+function getGuideMSTeamsApp_Subdirectory(parentPath, language, collapsable = false, depth = 1) {
   const prefix = parentPath + '/msteams-app';
 
-  return getSideBarItem(language, 'msteams-app', [
-    prefix + '/introduction',
-    getSideBarItem(language, 'first-connection', [prefix + '/first-connection']),
-    getSideBarItem(language, 'personal-app', [prefix + '/personal-app']),
-    getSideBarItem(language, 'teams-tabs', [prefix + '/teams-tabs']),
-    getSideBarItem(language, 'consult', [prefix + '/consult']),
-    getSideBarItem(language, 'publish', [prefix + '/publish']),
-    getSideBarItem(language, 'administration', [prefix + '/administration']),
-  ]);
-}
+  return getSideBarItem(language, 'msteams-app',
+    [
+      prefix + '/introduction',
+      prefix + '/first-connection',
+      prefix + '/personal-app',
+      prefix + '/teams-tabs',
+      prefix + '/consult',
+      prefix + '/publish',
+      prefix + '/administration'
+    ],
+    collapsable, depth
+  );
+};
 
-function getGuideWebApp_Subdirectory(parentPath, language) {
+function getGuideWebApp_Subdirectory(parentPath, language, collapsable = false, depth = 1) {
   const prefix = parentPath + '/web-app';
 
+  /*
+  -------------------------------------------------------
+  NOTE: If you want to apply a different item label than the title1 label of the file, use this example
+  -------------------------------------------------------
   return getSideBarItem(language, 'web-app', [
     prefix + '/introduction',
-    getSideBarItem(language, 'settings', [prefix + '/settings']),
-    getSideBarItem(language, 'actions', [prefix + '/actions']),
-    getSideBarItem(language, 'interact', [prefix + '/interact']),
-    getSideBarItem(language, 'publish', [prefix + '/publish']),
-    getSideBarItem(language, 'notification', [prefix + '/notification']),
-    getSideBarItem(language, 'directory', [prefix + '/directory']),
-    getSideBarItem(language, 'search', [prefix + '/search']),
-    getSideBarItem(language, 'administration', [prefix + '/administration']),
+    getSideBarItem(language, 'settings', [prefix + '/settings'], collapsable, depth),
+    getSideBarItem(language, 'actions', [prefix + '/actions'], collapsable, depth),
+    getSideBarItem(language, 'interact', [prefix + '/interact'], collapsable, depth),
+    getSideBarItem(language, 'publish', [prefix + '/publish'], collapsable, depth),
+    getSideBarItem(language, 'notification', [prefix + '/notification'], collapsable, depth),
+    getSideBarItem(language, 'directory', [prefix + '/directory'], collapsable, depth),
+    getSideBarItem(language, 'search', [prefix + '/search'], collapsable, depth),
+    getSideBarItem(language, 'administration', [prefix + '/administration'], collapsable, depth)
   ]);
+  */
+
+  // NOTE: Below an example of menu using the file title1 label as menu item label
+  // Describing the sidebar that way prevents us from creating a lot of internationalized (i18n) labels
+  return getSideBarItem(language, 'web-app',
+    [
+      prefix + '/introduction',
+      prefix + '/settings',
+      prefix + '/actions',
+      prefix + '/interact',
+      prefix + '/publish',
+      prefix + '/notification',
+      prefix + '/directory',
+      prefix + '/search',
+      prefix + '/administration'
+    ],
+    collapsable, depth
+  );
 }
 
 /**
@@ -172,10 +199,10 @@ function getGuide(language) {
   const prefix = (language ? '/' + language : '') + '/guide';
 
   return [
-    getGuideMSTeamsApp_Subdirectory(prefix, language),
-    getGuideWebApp_Subdirectory(prefix, language)
+    getGuideMSTeamsApp_Subdirectory(prefix, language, true, 0),
+    getGuideWebApp_Subdirectory(prefix, language, true, 0)
   ];
-}
+};
 
 /**
  * Advanced part of the sidebar
@@ -186,13 +213,13 @@ function getAvancedUsage(language) {
   const prefix = (language ? '/' + language : '') + '/advanced';
 
   return [
-    getSideBarItem(language, 'requirements', [prefix + '/requirements']),
-    getSideBarItem(language, 'authentication', [prefix + '/authentication']),
-    getSideBarItem(language, 'data-hosting', [prefix + '/data-hosting']),
-    getSideBarItem(language, 'privacy', [prefix + '/privacy']),
-    getSideBarItem(language, 'security', [prefix + '/security'])
+    prefix + '/requirements',
+    prefix + '/authentication',
+    prefix + '/data-hosting',
+    prefix + '/privacy',
+    prefix + '/security'
   ];
-}
+};
 
 
 /**
@@ -200,9 +227,9 @@ function getAvancedUsage(language) {
  */
 function getSidebar(language) {
   return [
-    getSideBarItem(language, 'introduction', getIntroduction(language)),
-    getSideBarItem(language, 'getting-started', getGettingStarted(language)),
-    getSideBarItem(language, 'guide', getGuide(language)),
-    getSideBarItem(language, 'advanced', getAvancedUsage(language))
+    getSideBarItem(language, 'introduction', getIntroduction(language), true, 1),
+    getSideBarItem(language, 'getting-started', getGettingStarted(language), true, 1),
+    getSideBarItem(language, 'guide', getGuide(language), true, 0),
+    getSideBarItem(language, 'advanced', getAvancedUsage(language), true, 0)
   ];
-}
+};
