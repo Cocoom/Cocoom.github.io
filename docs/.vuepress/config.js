@@ -1,4 +1,5 @@
 const moment = require('moment');
+const {getSideBarItem} = require('./sidebar/sidebar');
 
 
 module.exports = {
@@ -7,12 +8,12 @@ module.exports = {
     // As a special case, the default locale can use '/' as its path.
     '/': {
       lang: 'en-US', // this will be set as the lang attribute on <html>
-      title: '📚 Resources to get started with Cocoom',
+      title: '📚 Help center',
       description: 'Setup, guide, resources, ...'
     },
     '/fr/': {
       lang: 'fr-FR',
-      title: '📚 Pour bien démarrer avec Cocoom',
+      title: '📚 Help center',
       description: 'Premiers pas, guide d\'utilisation, ressources...'
     }
   },
@@ -99,131 +100,6 @@ module.exports = {
 // *********************************************************
 
 
-function getSidebarLabels() {
-  return {
-    "none": {
-      "en": "",
-      "fr": ""
-    },
-    "introduction": {
-      "en": "Introduction",
-      "fr": "Présentation"
-    },
-    "getting-started": {
-      "en": "Getting Started",
-      "fr": "Premiers pas"
-    },
-    "guide": {
-      "en": "Guide",
-      "fr": "Guide"
-    },
-    "msteams-app": {
-      "en": "Microsoft Teams App",
-      "fr": "Microsoft Teams Application"
-    },
-    "web-app": {
-      "en": "Web App",
-      "fr": "Web Application"
-    },
-    "iframe": {
-      "en": "IFrame",
-      "fr": "IFrame"
-    },
-    "install-msteams-app": {
-      "en": "Install Microsoft Teams app",
-      "fr": "Installer Microsoft Teams app"
-    },
-    "first-connection": {
-      "en": "First connection",
-      "fr": "Première connexion"
-    },
-    "personal-app": {
-      "en": "Personal App",
-      "fr": "App personnelle"
-    },
-    "teams-tabs": {
-      "en": "Teams Tabs",
-      "fr": "Onglets d'équipe"
-    },
-    "consult": {
-      "en": "Consult",
-      "fr": "Consulter"
-    },
-    "publish": {
-      "en": "Publish",
-      "fr": "Publier"
-    },
-    "administration": {
-      "en": "Administration",
-      "fr": "Administration"
-    },
-    "slack-integration": {
-      "en": "Slack",
-      "fr": "Slack"
-    },
-    "google-integration": {
-      "en": "Google SSO",
-      "fr": "SSO Google"
-    },
-    "structure": {
-      "en": "Structure",
-      "fr": "Structurer"
-    },
-    "users": {
-      "en": "Users",
-      "fr": "Utilisateurs"
-    },
-
-
-    "settings": {
-      "en": "Settings",
-      "fr": "Paramètres"
-    },
-    "actions": {
-      "en": "Actions",
-      "fr": "Actions"
-    },
-    "interact": {
-      "en": "Interactions",
-      "fr": "Interactions"
-    },
-    "publish": {
-      "en": "Publish",
-      "fr": "Publier"
-    },
-    "notification": {
-      "en": "Notifications",
-      "fr": "Notifications"
-    },
-    "directory": {
-      "en": "Directory",
-      "fr": "Annuaire"
-    },
-    "search": {
-      "en": "Search",
-      "fr": "Recherche"
-    },
-    "administration": {
-      "en": "Administration",
-      "fr": "Administration"
-    }
-  };
-};
-
-function getLabel(id, language) {
-  return getSidebarLabels()[id][!language ? 'en' : language];
-}
-
-function getSideBarItem(language, titleId, children = null, collapsable = true, depth = 2) {
-  return {
-    title: getLabel(titleId, language),
-    collapsable: collapsable,
-    sidebarDepth: depth,
-    children: children
-  }
-}
-
-
 /**
  * Getting Started sidebar
  *
@@ -274,22 +150,17 @@ function getGuideMSTeamsApp_Subdirectory(parentPath, language) {
 function getGuideWebApp_Subdirectory(parentPath, language) {
   const prefix = parentPath + '/web-app';
 
-  return {
-    title: getLabel('web-app', language),
-    collapsable: true,
-    sidebarDepth: 2,
-    children: [
-      prefix + '/introduction',
-      getSideBarItem(language, 'settings', [prefix + '/settings']),
-      getSideBarItem(language, 'actions', [prefix + '/actions']),
-      getSideBarItem(language, 'interact', [prefix + '/interact']),
-      getSideBarItem(language, 'publish', [prefix + '/publish']),
-      getSideBarItem(language, 'notification', [prefix + '/notification']),
-      getSideBarItem(language, 'directory', [prefix + '/directory']),
-      getSideBarItem(language, 'search', [prefix + '/search']),
-      getSideBarItem(language, 'administration', [prefix + '/administration']),
-    ]
-  };
+  return getSideBarItem(language, 'web-app', [
+    prefix + '/introduction',
+    getSideBarItem(language, 'settings', [prefix + '/settings']),
+    getSideBarItem(language, 'actions', [prefix + '/actions']),
+    getSideBarItem(language, 'interact', [prefix + '/interact']),
+    getSideBarItem(language, 'publish', [prefix + '/publish']),
+    getSideBarItem(language, 'notification', [prefix + '/notification']),
+    getSideBarItem(language, 'directory', [prefix + '/directory']),
+    getSideBarItem(language, 'search', [prefix + '/search']),
+    getSideBarItem(language, 'administration', [prefix + '/administration']),
+  ]);
 }
 
 /**
@@ -306,24 +177,32 @@ function getGuide(language) {
   ];
 }
 
+/**
+ * Advanced part of the sidebar
+ *
+ * @param {string} language ('fr', ...)
+ */
+function getAvancedUsage(language) {
+  const prefix = (language ? '/' + language : '') + '/advanced';
+
+  return [
+    getSideBarItem(language, 'requirements', [prefix + '/requirements']),
+    getSideBarItem(language, 'authentication', [prefix + '/authentication']),
+    getSideBarItem(language, 'data-hosting', [prefix + '/data-hosting']),
+    getSideBarItem(language, 'privacy', [prefix + '/privacy']),
+    getSideBarItem(language, 'security', [prefix + '/security'])
+  ];
+}
+
 
 /**
- * English version of the sidebar
+ * Complete sidebar
  */
 function getSidebar(language) {
   return [
     getSideBarItem(language, 'introduction', getIntroduction(language)),
     getSideBarItem(language, 'getting-started', getGettingStarted(language)),
-    getSideBarItem(language, 'guide', getGuide(language))/* ,
-    {
-      title: 'Usage',
-      collapsable: true,
-      sidebarDepth: 2,
-      children: [
-        guidePrefix + '/use/create',
-        guidePrefix + '/use/organize',
-        guidePrefix + '/use/setup'
-      ]
-    } */
+    getSideBarItem(language, 'guide', getGuide(language)),
+    getSideBarItem(language, 'advanced', getAvancedUsage(language))
   ];
 }
