@@ -2,7 +2,6 @@
 
 ## Philosophy
 
-
 > 🌟 We want to help companies share their knowledge in a transversal and transparent way! We advocate for a responsible sharing of knowledge within companies to bring trust and transparency to all teams.
 
 
@@ -11,17 +10,17 @@
 
 When you want to share knowledge within a team, an organization, a community, we allow you to create a common knowledge base.
 
-**This base is a dedicated Cocoom platform, it has :**
+**This base is a dedicated Cocoom platform, with :**
 
-- a specific URL
+- a personalized URL (you choose a subdomain )
 - a structure and content that you create
 - of the users you manage
 
-You can manage this knowledge base without special technical skills and these online guides allow you to be self-sufficient.
+**You can manage this knowledge base without special technical skills and these online guides allow you to be self-sufficient.**
 
-The creation of a platform is free of charge and can be done online at: https://start.cocoom.com/signup
+The creation of a platform is free of charge and can be done online : [Sign up page](https://start.cocoom.com/signup?lng=en)
 
-Cocoom's pricing is available online at: https://cocoom.com/prix
+Cocoom's pricing is available here : [Pricing](https://cocoom.com/pricing/?lang=en)
 
 
 ## The team behind Cocoom
@@ -34,10 +33,9 @@ We are convinced that technology alone is not enough to sustainably improve coll
 
 ## Our contact details
 
-Cocoom website: https://cocoom.com
-training site: https://academy.cocoom.com
-contact mail: contact@cocoom.com
-mail commercial questions: sales@cocoom.com
-mail support: support@cocoom.com
-
+- Cocoom website: [https://cocoom.com](https://cocoom.com?lang=en)
+- training site: [https://academy.cocoom.com (in french)](https://academy.cocoom.com)
+- general purpose e-mail: <contact@cocoom.com>
+- e-mail for sales purposes: <sales@cocoom.com>
+- e-mail to contact our support: <support@cocoom.com>
 
