@@ -15,15 +15,15 @@ Users use their Google Suite credentials to sign in to Cocoom.
 
 [Consent screen](https://console.cloud.google.com/apis/credentials/consent)
 
-![](https://paper-attachments.dropbox.com/s_AE14104143D7433E2E244C7611B91F451C0F9B0310EB517144B85400DB79926E_1589188827733_1.+Create+a+Google+app+for+OIDC+sign+in.png)
-
+<img src="https://paper-attachments.dropbox.com/s_AE14104143D7433E2E244C7611B91F451C0F9B0310EB517144B85400DB79926E_1589188827733_1.+Create+a+Google+app+for+OIDC+sign+in.png" style="max-width: 150px;">
 
 
 
 ### 2. Fill some parameters
 
-![](https://paper-attachments.dropbox.com/s_AE14104143D7433E2E244C7611B91F451C0F9B0310EB517144B85400DB79926E_1589189158142_2.+Edit+app+properties.png)
+🎨 You can download the Cocoom App logo from here: [Logo](/img/big-squared-logo.png)
 
+<img src="/img/google-oauth-app-settings.png" style="max-width: 400px;">
 
 
 ## Add credentials
@@ -39,7 +39,6 @@ To allow GSuite users to be able to authenticate through the previously created 
 ### 2. Choose “OAuth client ID” menu item
 
 ![](https://paper-attachments.dropbox.com/s_11AA96D8CB224F869E7EE44FA606AA34A1ADA10180586DD3C878B0566AC38DDC_1589191105615_3.1.+Create+a+google+app.png)
-
 
 
 ### 3. Then click on “Create credentials”

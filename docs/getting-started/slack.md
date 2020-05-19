@@ -46,9 +46,8 @@ Fill in the following information:
 
 - 1- App name: Cocoom
 - 2- Short description: optional description
-- 3- App Icon: download the official icon here: https://cocoom.com/ressources/Cocoom_logo_slack_200.jpg
-- 4- Background color: #175AE4
-
+- 3- App Icon: download the official icon here: [Logo](/img/big-squared-logo.png)
+- 4- Background color: #0F5AE5
 
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588520639508_image.png)
 

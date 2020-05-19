@@ -15,14 +15,15 @@ Les utilisateurs utilisent leurs identifiants Google Suite pour se connecter à 
 
 [Consent screen](https://console.cloud.google.com/apis/credentials/consent)
 
-![](https://paper-attachments.dropbox.com/s_AE14104143D7433E2E244C7611B91F451C0F9B0310EB517144B85400DB79926E_1589188827733_1.+Create+a+Google+app+for+OIDC+sign+in.png)
-
+<img src="https://paper-attachments.dropbox.com/s_AE14104143D7433E2E244C7611B91F451C0F9B0310EB517144B85400DB79926E_1589188827733_1.+Create+a+Google+app+for+OIDC+sign+in.png" style="max-width: 150px;">
 
 
 
 ### 2. Enfin, il faut renseigner quelques paramètres
 
-![](https://paper-attachments.dropbox.com/s_AE14104143D7433E2E244C7611B91F451C0F9B0310EB517144B85400DB79926E_1589189158142_2.+Edit+app+properties.png)
+🎨 Vous pouvez télécharger le logo de l'App Cocoom ici: [Logo](/img/big-squared-logo.png)
+
+<img src="/img/google-oauth-app-settings.png" style="max-width: 400px;">
 
 
 
