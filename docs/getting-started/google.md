@@ -67,3 +67,12 @@ To allow GSuite users to be able to authenticate through the previously created 
 
 Those are the two requested information required by Cocoom support team to allow your GSuite users to authenticate to your  Cocoom base.
 
+
+## 🏆 Send us the information
+
+Those requested information will be used by the Cocoom support team to create the authentication link between your GSuite and your Cocoom accounts.
+
+To complete this integration, you have to send us these information (client ID & client Secret) by email at <support@cocoom.com>
+
+* either directly in the body of the email (please append your domain name as well, called YOURDOMAIN in this help page)
+* or by filling in the following PDF document: [OIDC Cocoom Form](/doc/en/OpenID_Connect_Form-en.pdf)

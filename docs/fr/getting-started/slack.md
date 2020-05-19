@@ -65,7 +65,7 @@ dans la section « OAuth & Permissions », cliquez sur “Add New Redirect URL�
 
 
 Ensuite, copier coller l’adresse de votre plateforme Cocoom comme ceci :
-https://xxxxxx(votrenom).cocoom.com/oidc
+https://YOURDOMAIN.cocoom.com/oidc
 
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588522156994_image.png)
 
@@ -115,8 +115,9 @@ Préparer votre email pour support@cocoom.com et ajoutez :
 
 **Pour l’authentification SSO : Client ID et Client Secret**
 
-
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588525038450_image.png)
+
+_Remarque: vous pouvez soit envoyer directement ces informations dans le corps d'un e-mai (en ajoutant aussi votre domaine Cocoom, appelé YOURDOMAIN dans cette page d'aide), soit les envoyer en ayant rempli le document pdf suivant: [Formulaire OIDC Cocoom](/doc/fr/Formulaire_OpenID_Connect.pdf)_
 
 
 **Pour le BOT de notification : Bot User OAuth Access Token**
@@ -125,5 +126,4 @@ Préparer votre email pour support@cocoom.com et ajoutez :
 
 
 
-✌️ L’équipe support reviendra vers vous dans les 2 minutes à 48h maximum pour valider votre App !
-
+✌️ L’équipe support reviendra vers vous dans quelques minutes à 48h maximum pour valider votre App !

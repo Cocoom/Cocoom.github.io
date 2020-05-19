@@ -68,7 +68,7 @@ In the "OAuth & Permissions" section, click on "Add New Redirect URL".
 
 
 Then copy and paste the address of your Cocoom platform like this :
-https://xxxxxx(votrenom).cocoom.com/oidc
+https://YOURDOMAIN.cocoom.com/oidc
 
 
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588522156994_image.png)
@@ -94,14 +94,14 @@ and add the following scopes
 
 To receive Cocoom notifications directly in your Slack channels, you need to add a BOT.
 
-Go to the "**App Home**" section and go to the "**You're App presence in Slack**" section. We'll start by editing the display by clicking on "**edit**" of the app display name" and fill in the fields identically: 
+Go to the "**App Home**" section and go to the "**You're App presence in Slack**" section. We'll start by editing the display by clicking on "**edit**" of the app display name" and fill in the fields identically:
 
 
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588524542200_image.png)
 
 
 
-## Step 5: Finalize the installation 
+## Step 5: Finalize the installation
 
 In the "**Install App**" section, click on "**Install App to Workspace**".
 
@@ -121,15 +121,15 @@ Prepare your email for support@cocoom.com and add :
 
 - **For SSO authentication: Client ID and Secret Client :**
 
-
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588525038450_image.png)
 
+_Note: You can either send these information directly in the body of the email (please append your Cocoom domain name as well, called YOURDOMAIN in this help page), or send them by filling in the following PDF document: [OIDC Cocoom Form](/doc/en/OpenID_Connect_Form-en.pdf)_
 
 
 
 - **For the notification BOT: Bot User OAuth Access Token**
+
 ![](https://paper-attachments.dropbox.com/s_A2EF8EA2FCB1ECA6613A9567F701E0EA766D61ACD38439000BFEADB91FC94C29_1588525457807_image.png)
 
 
-✌️ The support team will get back to you within 2 minutes to 48h maximum to validate your App!
-
+✌️ The support team will get back to you within several minutes to 48h maximum to validate your App!

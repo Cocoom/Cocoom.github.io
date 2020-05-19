@@ -68,3 +68,11 @@ Cette étape permet de donner, au utilisateurs GSuite, accès à l’authentific
 Ce sont les 2 informations dont a besoin le support Cocoom pour permettre de relier votre base Cocoom à vos utilisateurs GSuite.
 
 
+## 🏆 Envoi des informations utiles
+
+Ces informations vont servir au support Cocoom pour connecter votre compte GSuite à votre domaine Cocoom.
+
+Pour finaliser cette intégration vous devez donc envoyer ces informations (client ID et client Secret) par e-mail à <support@cocoom.com>
+
+* soit directement dans l'email (en nous fournissant aussi votre domaine Cocoom, noté YOURDOMAIN dans la documentation)
+* soit en remplissant le document pdf suivant: [Formulaire OIDC Cocoom](/doc/fr/Formulaire_OpenID_Connect.pdf)
