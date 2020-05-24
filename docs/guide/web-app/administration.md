@@ -1,9 +1,9 @@
 # Administration
-If you have sufficient rights, you will be able to access the Cocoom administration area. 
+
+If you have sufficient access rights, you will be able to reach the Cocoom administration area.
 
 
-
-## Access 
+## Access
 
 When you are in a main page, click on your avatar and then on ⚡️ Administration.Sans titre
 
@@ -42,7 +42,7 @@ For each of them you have the possibility to :
 
 
 
-## 🎓 Channel = Structure 
+## 🎓 Channel = Structure
 
 Your Cocoom visual knowledge base is organized in #thematic threads. These #threads are the categories of knowledge that you will be able to associate to teams and add in the tabs. If you have administrator rights, you can modify the structure of your knowledge base to :
 
@@ -115,9 +115,11 @@ Then click on "preview" in the top right-hand corner
 
 
 
-## 🗞 In the headlines
+## 🗞 Breaking news part: the headlines
 
 This tab allows you to select up to 5 publications to be permanently displayed in the top banner of the "front page".
+
+If no publication is selected, the 5 latests published ones are then displayed.
 
 This page is the first visible page in your "knowledge base" consultation.
 
@@ -127,17 +129,43 @@ This page is the first visible page in your "knowledge base" consultation.
 
 Whether you have connected your platform to an SSO authentication system or not, you must manage your users from the Cocoom administration interface.
 
+Cocoom runs on a pre-provisioning mode which lets you freely choose exactly who has access to Cocoom from your organization.
+The drawback is, for you as an admin, to keep users list synchronized with your organization turnover.
+
 👉 **Manually add all the email addresses of the users to invite, they will receive an email inviting them to create or link their account.**
 
-If you are in SSO connection the account will simply be linked, otherwise the user will have to enter login and password to create his account. Once this account is created, they will be able to login.
+If you are in SSO connection mode, each user account will simply be linked and have directly access to your Cocoom.
+Otherwise, a user will have to enter his first and last name then enter his login and password to create its account. Once this account is created, he will be able to sign into Cocoom.
 
 In the users tab you will be able to :
 
 - **Add** a user
-- **Modify** a user
-- **Deleting** a user
+
+To add several users at once, you can simply copy/paste a list of emails in the dedicated text area.
+
+![](/img/en/guide/admin-user-list.png)
 
 
-![](https://i0.wp.com/cocoom.com/wp-content/uploads/2020/03/Utilisateurs.png)
+- ### **Modify** a user
+
+All possible actions to update a user are accessible from the 3 dots menu at the end of each users list row.
+You can:
+  * Change user profile: he could be 'administrator' as you are, 'contributor' ou 'reader'.
+  * deactivate a user
+  * delete a user
+  * activate a user
+
+  - #### **Deactivate** a user
+
+The user can't access your Cocoom anymore and he's no more listed in Cocoom directory, but he's still in the list of your users.
 
 
+  - ####  **Activate** a user
+
+The user will get back everything like its was before his deactivation.
+
+  - #### **Deleting** a user
+
+You can delete a user from your Cocoom.
+Everything done by this user will still be there.
+He will no more be listed into Cocoom directory.
