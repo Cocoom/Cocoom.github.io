@@ -139,14 +139,14 @@ Otherwise, a user will have to enter his first and last name then enter his logi
 
 In the users tab you will be able to :
 
-- **Add** a user
+### **Add** a user
 
 To add several users at once, you can simply copy/paste a list of emails in the dedicated text area.
 
 ![](/img/en/guide/admin-user-list.png)
 
 
-- ### **Modify** a user
+### **Modify** a user
 
 All possible actions to update a user are accessible from the 3 dots menu at the end of each users list row.
 You can:
@@ -155,17 +155,21 @@ You can:
   * delete a user
   * activate a user
 
-  - #### **Deactivate** a user
+#### **Deactivate** a user
 
 The user can't access your Cocoom anymore and he's no more listed in Cocoom directory, but he's still in the list of your users.
 
 
-  - ####  **Activate** a user
+####  **Activate** a user
 
 The user will get back everything like its was before his deactivation.
 
-  - #### **Deleting** a user
 
-You can delete a user from your Cocoom.
-Everything done by this user will still be there.
-He will no more be listed into Cocoom directory.
+#### **Deleting** a user
+
+You can delete a user from your Cocoom if he was deactivated before.
+In that case, you won't see that user in your users list anymore.
+
+-Everything done by this user will still be there.
+
+He will no more be listed into your Cocoom directory.

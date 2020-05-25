@@ -166,6 +166,7 @@ Vous avez alors la possibilité de :
 ####  **Désactiver** un utilisateur
 
 L'utilisateur fait partie de votre Cocoom mais, temporairement, ne peut plus y accéder.
+
 L'utilisateur n'apparaîtra temporairement plus dans votre annuaire Cocoom.
 
 Vous pouvez ré-activer cette personne a tout moment.
@@ -179,6 +180,9 @@ Sa ré-activation fera en sorte qu'il retrouve son statut d'avant désactivation
 
 ####  **Supprimer** un utilisateur
 
-Vous pouvez supprimer un utilisateur de votre Cocoom.
-Tout ce qu'à créé cet utilisateur dans votre Cocoom sera conservé.
+Vous pouvez supprimer un utilisateur de votre Cocoom si il a été préalablement désactivé.
+Dans ce cas, vous ne verrez plus cet utilisateur au sein de votre liste d'utilisateurs.
+
+Tout ce qu'avait créé cet utilisateur dans votre Cocoom sera conservé.
+
 L'utilisateur n'apparaîtra plus dans votre annuaire Cocoom.
