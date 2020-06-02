@@ -2,7 +2,7 @@
 
 ## Knowledge Base
 
-🌱 A **Cocoom platform** represents an indivisible unit :
+🌱 A **Cocoom knowledge base** represents an indivisible unit :
 Even if the functionalities may vary from one profile to another, all users have access to the same information and authenticate themselves in the same way. A base is a common and shared space that cannot be divided into private subgroups.
 
 
@@ -49,15 +49,15 @@ The tags are not associated with a particular #thematic thread and they are all 
 
 
 
-## Hubs of platform
+## Hubs of knowledge bases
 
 In some cases, you may need to create more complex structures, to compartmentalize knowledge or to manage your users differently.
 
-A hub allows you to link several platform together.
+A hub allows you to link several bases together.
 
-**A hub consists of a mother platform and one or more daughter platform.**
+**A hub consists of a mother knowledge base and one or more daughter knowledge bases.**
 
-A mother platform can have as many daughters as necessary but a daughter platform can only have one mother.
+A mother knowledge base can have as many daughters as necessary but a daughter knowledge base can only have one mother.
 
 
 ![](https://paper-attachments.dropbox.com/s_F856C17E19B32D7F12575C213249F66BF49FE79B2A865CE0CB2FB24EAE85A111_1589092033291_hub-structure.jpg)
@@ -65,7 +65,7 @@ A mother platform can have as many daughters as necessary but a daughter platfor
 
 The bases are **linked by the Cocoom support on demand** (see offer).
 
-Once these bases are connected, they continue a HUB, they are part of a single family and you will be able to create transversality between these bases.
+Once connected, these knowledge bases form a HUB, they are part of a single family and you will be able to create transversality between these bases.
 
 **Each base has its own characteristics:**
 

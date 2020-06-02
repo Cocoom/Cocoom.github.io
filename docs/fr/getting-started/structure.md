@@ -63,7 +63,7 @@ Une base mère peut avoir autant de filles que nécéssaire mais une base fille 
 
 
 Les bases sont **reliées par le support Cocoom sur demande** (voir offre).
-Une fois ces bases reliées, elle continuent un HUB, elles font parties d’une seule famille et vous allez pouvoir créer de la transversalité entre ces bases.
+Une fois ces bases reliées, elle constituent un HUB, elles font partie d’une seule famille et vous allez pouvoir créer de la transversalité entre ces bases.
 
 **Chaque base possède ses propres caractéristiques :**
 
@@ -72,7 +72,7 @@ Une fois ces bases reliées, elle continuent un HUB, elles font parties d’une 
 - des utilisateurs
 - une structure de fils thématiques, de tags
 
-**Le hub permet d’échanger de l’information, via les fils thématiques entre ces bases.**
+**Le hub permet d’échanger de l’information, via les fils thématiques, entre ces bases.**
 
 
 ![](https://paper-attachments.dropbox.com/s_395CE863641B04726030D3C1F4BCB08611E24CFD32776738E99933E3CEE6B3F8_1588716801252_hub-structure_2.jpg)
@@ -87,7 +87,7 @@ Une fois ces bases reliées, elle continuent un HUB, elles font parties d’une 
 Un utilisateur peut avoir accès à plusieurs bases d’un même hub. Il pourra alors basculer d’une base à l’autre.
 
 **L’authentification est gérée base par base**
-Selon les cas de figures, vous pouvez pour une base donnée :
+Selon les cas de figures, vous pouvez, pour une base donnée :
 
 - avoir un accès simple pour des personnes extérieures (partenaires, clients, fournisseurs…)
 - avoir un accès SSO spécifique ( tenant Azure client, SSO slack…)
