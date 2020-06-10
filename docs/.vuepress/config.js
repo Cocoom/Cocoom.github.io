@@ -157,7 +157,8 @@ function getGuideMSTeamsApp_Subdirectory(parentPath, language, collapsable = fal
       prefix + '/teams-tabs',
       prefix + '/consult',
       prefix + '/publish',
-      prefix + '/administration'
+      prefix + '/administration',
+      prefix + '/notifications'
     ],
     collapsable, depth
   );
