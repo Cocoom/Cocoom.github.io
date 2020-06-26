@@ -1,6 +1,5 @@
 # Installation de l'App MS Teams
 
-
 ## 1. Installer l'application
 
 Il vous faut d’abord installer l’application Cocoom dans votre Microsoft teams.
@@ -12,14 +11,11 @@ Cliquez sur “installer”.
 
 ou
 
-👉 **Télécharger le package d’installation** >> [App & intégration](https://cocoom.com/app-integrations/)
-*Attention, vous devez avoir des droits suffisamment élevés pour effectuer cette opérations. Si ce n’est pas le cas, rapprochez vous d’un administrateur Office 365 dans votre organisation.*
+👉 **Cliquer sur le lien menant directement à la [Cocoom Teams App](https://teams.microsoft.com/l/app/1055556b-2695-4f2d-8184-ea1633842a1b)**
 
+then
 
-![](https://paper-attachments.dropbox.com/s_6CFA4B0A70E3DD7648B2C6010F8EF67FF1372BBCEB214BEC5EF83F31CE7E1280_1588948092920_Plan+de+travail+1cocoom-guides_EN.png)
-![](https://paper-attachments.dropbox.com/s_6CFA4B0A70E3DD7648B2C6010F8EF67FF1372BBCEB214BEC5EF83F31CE7E1280_1588948092911_Plan+de+travail+2cocoom-guides_EN.png)
-
-
+Cliquer sur "installer".
 
 ## 2. Créer une base Cocoom
 
@@ -27,7 +23,9 @@ ou
 
 Une fois l’application Cocoom installée, vous devez créer une base Cocoom, votre plateforme dédiée qui sera intégrée dans Microsoft Teams.
 
-******⚠ Pour que votre base soit directement associée à votre Microsoft Teams, vous devez la créer depuis la page de l’application Cocoom dans Microsoft Teams.**
+![](/img/fr/getting-started/install-msteams-app_create-base.png)
+
+******⚠ Pour que votre base soit directement associée à votre Microsoft Teams, vous devez la créer depuis la page de l’application Cocoom de Microsoft Teams.**
 
 Cliquez sur le bouton étape 1 : “**créer votre base Cocoom**”  dans votre application personnelle Cocoom.
 
@@ -43,8 +41,6 @@ a. Cocoom vous demande l’autorisation de connexion avec vos identifiants Offic
 
 Une fois votre cette procédure terminée, vous pouvez fermer la fenêtre, votre base est créée et reliée à votre Microsoft Teams.
 
-
-![](https://paper-attachments.dropbox.com/s_6CFA4B0A70E3DD7648B2C6010F8EF67FF1372BBCEB214BEC5EF83F31CE7E1280_1588948092904_Plan+de+travail+3cocoom-guides_EN.png)
 
 ## 3. Relier vos comptes Cocoom et Microsoft Teams
 

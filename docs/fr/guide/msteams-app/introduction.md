@@ -13,5 +13,4 @@ L’application vous permet de relier votre base de savoirs visuels Cocoom dans 
 
 Pour vous servir de Cocoom au sein de Microsoft teams, vous devez avoir installé l’application Cocoom dans votre Microsoft Teams.
 
-👉 **Voir la procédure d’installation** : installer Microsoft teams App
-
+👉 **Voir la procédure d’installation** : [Installer Microsoft teams App](/fr/getting-started/install-msteams-app)

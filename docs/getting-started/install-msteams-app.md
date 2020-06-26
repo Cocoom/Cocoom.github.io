@@ -1,27 +1,27 @@
-# Installing MS Teams App
+# Installing Microsoft Teams App
 
 ## 1. Install the application
 
-First you need to install the Cocoom application in your Microsoft teams. Open the "Applications" tab of Microsoft Teams, you can then install it automatically or manually.
+First you need to install the Cocoom application in your Microsoft teams.
 
 👉 **From Microsoft Teams Apps store**
-Search for "Cocoom" in the Microsoft Teams application catalog.
-Click on "install".
+Search for "**Cocoom**" in the Microsoft Teams application catalog.
 
 or
 
-👉 **Download the installation package** >> [App & Integration](https://cocoom.com/app-and-integrations/)
-Be careful, you must have a sufficiently high fee to perform this operation. If this is not the case, get in touch with an Office 365 administrator in your organisation.
+👉 **Click on this link leading to [Cocoom Teams App](https://teams.microsoft.com/l/app/1055556b-2695-4f2d-8184-ea1633842a1b)**
 
+then
 
-![](https://paper-attachments.dropbox.com/s_3F33542EA447BA01ECFB61CB22F832B23287CC8CF63B5E2F99B2EF793B54E990_1588948629302_Plan+de+travail+1cocoom-guides_EN.png)
-![](https://paper-attachments.dropbox.com/s_3F33542EA447BA01ECFB61CB22F832B23287CC8CF63B5E2F99B2EF793B54E990_1588948805951_Plan+de+travail+2cocoom-guides_EN.png)
+Click on "install".
 
 ## 2. Create a Cocoom base
 
-(if you have one, go to step 3)
+(if you already have one, go to step 3)
 
 Once the Cocoom application is installed, you must create a Cocoom base, your dedicated platform that will be integrated into Microsoft Teams.
+
+![](/img/en/getting-started/install-msteams-app_create-base.png)
 
 ⚠ **For your database to be directly associated with your Microsoft Teams, you must create it from the Cocoom application page in Microsoft Teams.**
 
@@ -35,14 +35,7 @@ b. Create your platform by entering :
 - the address of your platform "xxxx.cocoom.com": according to the list of available URLs
 - the use you wish to make of it "multiple choice": only one option available
 
-👉 more information in the "create a platform" section
-
-Once you have completed this procedure, you can close the window, your platform is created and connected to your Microsoft Teams.
-
-
-![](https://paper-attachments.dropbox.com/s_3F33542EA447BA01ECFB61CB22F832B23287CC8CF63B5E2F99B2EF793B54E990_1588948793242_Plan+de+travail+3cocoom-guides_EN.png)
-
-
+c. Once you have completed this procedure, you can close the window, your platform is created and connected to your Microsoft Teams.
 
 
 ## 3. Link your Cocoom and Microsoft Teams account

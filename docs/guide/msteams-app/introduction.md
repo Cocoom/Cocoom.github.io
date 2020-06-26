@@ -1,5 +1,5 @@
 # Introduction
-Cocoom is a Visual Knowledge platform that helps all employees share short, synthetic and attractive information within the company and beyond.  To use the Cocoom as a Teams App, you need a Cocoom license and an Office 365 license that includes Teams. 
+Cocoom is a Visual Knowledge platform that helps all employees share short, synthetic and attractive information within the company and beyond.  To use the Cocoom as a Teams App, you need a Cocoom license and an Office 365 license that includes Teams.
 
 
 👀**Tour of the Cocoom app for Teams**
@@ -11,5 +11,5 @@ The app allows you to link your Cocoom visual knowledge base in Microsoft Teams 
 – 🛎 **Propose** a personal space to follow your activity and be notified.
 –  🎓 **Organize** all your knowledge and info with #threads and structured tags
 
-👉 **See the installation procedure**: install Microsoft teams App
+👉 **See the installation procedure**: [Install Microsoft teams App](/getting-started/install-msteams-app)
 
