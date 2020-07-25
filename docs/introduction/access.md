@@ -86,5 +86,5 @@ These integrations can be done on a web page, or in other tools allowing it like
 ![](https://paper-attachments.dropbox.com/s_EC7EE8CC1B7BC02ADF64672D215BCF479354612A75D3B0231C10CC0F77CB116D_1589109107791_Capture-decran-2019-05-23-a-09.16.19.png)
 
 
-If you wish to test this functionality, nothing could be simpler, you can access our iframe catalog in the configuration section.
+If you wish to test this functionality, nothing could be simpler, you can access our [iframes catalog](/getting-started/iframe.html#list-of-iframes-urls-available) in the configuration section.
 

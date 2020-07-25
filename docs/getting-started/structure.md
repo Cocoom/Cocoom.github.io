@@ -1,4 +1,4 @@
-# Choice of structure
+# Structure your Cocoom
 
 ## Knowledge Base
 

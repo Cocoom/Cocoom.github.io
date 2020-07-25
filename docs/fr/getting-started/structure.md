@@ -1,4 +1,4 @@
-# Choix de structure
+# Structurer Cocoom
 
 ## Base de connaissance
 

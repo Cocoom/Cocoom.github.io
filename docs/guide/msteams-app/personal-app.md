@@ -3,7 +3,7 @@
 Your personal application allows you to manage all your knowledge and to access Cocoom administration (if your profile allows it).
 
 
-## Access your personal space
+## Get access to your personal space
 
 Your personal App is accessible from the App bar, the sidebar on the left.
 You can access it from the 3 small dots, which lead you to all the apps available for you, or you can pin it to the App Bar so you always have it close at hand.
@@ -43,7 +43,7 @@ Each view allows you to filter the information and has a shortcut for publicatio
 
 ## Dashboard
 
-The dashboard tab gives you access to your entire back office and allows you to manage your publications and the administration of the platform.
+The dashboard tab gives you access to your entire back office and allows you to manage your publications and the administration of the knowledge base.
 
 **My publications**, for the management of all your publications
 

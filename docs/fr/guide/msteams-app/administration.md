@@ -13,13 +13,13 @@ App Personnelle > Tableau de bord > Administration
 **La navigation est simple, le menu latéral vous permet de :**
 
 
-- voir et gérer toutes les publications de votre plateforme Cocoom
+- voir et gérer toutes les publications de votre base de connaissance Cocoom
 - voir et gérer tous les fils thématiques
 - voir et gérer tous les tags
 - concevoir et envoyer des newsletter
 - sélectionner des publications qui apparaitront dans la page “à la une”
 - voir et gérer tous les utilisateurs
-- consulter les statistiques et les résultats des sondages sur l’ensemble de la plateforme
+- consulter les statistiques et les résultats des sondages sur l’ensemble de la base de connaissance
 
 
 ## Publications
@@ -77,9 +77,9 @@ Il est très important de bien penser sa structure de tags et de la faire évolu
 
 ## 🗞 Newsletter
 
-La fonctionnalité “Newsletter” vous permet de concevoir une newsletter à partir des publications de votre plateforme et de les envoyer à l’ensemble des utilisateurs.
+La fonctionnalité “Newsletter” vous permet de concevoir une newsletter à partir des publications de votre base de connaissance et de les envoyer à l’ensemble des utilisateurs.
 
-📌 **Astuce :** demandez la personnalisation de votre plateforme (voir offre) pour personnaliser les **logos, couleurs et adresses de diffusion** de votre newsletter.
+📌 **Astuce :** demandez la personnalisation de votre base de connaissance (voir offre) pour personnaliser les **logos, couleurs et adresses de diffusion** de votre newsletter.
 
 Cliquez sur “**créer une newsletter**” puis remplissez les champs du formulaire :
 
@@ -107,7 +107,7 @@ Cliquez ensuite sur “**prévisualiser**” en haut à droite
 ![](https://paper-attachments.dropbox.com/s_FBC5B0C054AD4D43082A0E2DC4412D69AB83598AFCFBA6C61B0013FF268096F6_1589100361922_Plan+de+travail+41cocoom-guides-2.png)
 
 
-⚠️  **Une newsletter est envoyée à tous les utilisateurs de votre plateforme, donc tous les utilisateurs présents dans l’onglet “utilisateurs”, y compris ceux dont les comptes sont en attente de validation (une invitation à été envoyée mais elle n’a pas été validée par l’utilisateur). Les utilisateur désactivés ne la reçoivent pas en revanche.**
+⚠️  **Une newsletter est envoyée à tous les utilisateurs de votre base de connaissance, donc tous les utilisateurs présents dans l’onglet “utilisateurs”, y compris ceux dont les comptes sont en attente de validation (une invitation à été envoyée mais elle n’a pas été validée par l’utilisateur). Les utilisateur désactivés ne la reçoivent pas en revanche.**
 
 
 ## 🗞 À la une

@@ -9,12 +9,12 @@ function getSidebarLabels() {
       "fr": "Présentation"
     },
     "getting-started": {
-      "en": "Getting Started",
-      "fr": "Premiers pas"
+      "en": "✨ Getting Started",
+      "fr": "✨ Premiers pas"
     },
     "guide": {
-      "en": "🏄🏼‍♂️ Guide",
-      "fr": "Guide"
+      "en": "🎓 Guide",
+      "fr": "🎓 Guide"
     },
     "msteams-app": {
       "en": "Microsoft Teams App",
@@ -29,8 +29,8 @@ function getSidebarLabels() {
       "fr": "Intégrations"
     },
     "advanced": {
-      "en": "Advanced info",
-      "fr": "Info complémentaires"
+      "en": "⚙️ Advanced info",
+      "fr": "⚙️ Info complémentaires"
     }
   };
 };

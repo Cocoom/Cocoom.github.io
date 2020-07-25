@@ -10,7 +10,7 @@ Une publication ou un partage est obligatoirement rattaché à un seul et unique
 
 Un fil thématique est caractérisé par :
 
-- nom 
+- nom
 - description (optionnel)
 - couleur
 - visuel (optionnel)
@@ -27,7 +27,7 @@ La gestion des fils thématiques se fait par un Administrateur dans l’espace A
 
 ## Filtrer avec les Tags
 
-**Les tags permettent de filtrer** grâce un deuxième niveau de spécification pour les publications et les partages. 
+**Les tags permettent de filtrer** grâce un deuxième niveau de spécification pour les publications et les partages.
 
 les tags ne sont pas reliés à un fil thématique, ils peuvent être transversaux à toutes les publications.
 
@@ -36,8 +36,8 @@ Le bouton filtre, présent sur toutes les vues de fils thématiques permettent d
 ![](https://paper-attachments.dropbox.com/s_1558E40395E041DAC8C7C3068559BA66FEBF88F7C0E3F2B03B602A855831ED47_1589015832731_Plan+de+travail+36cocoom-guides_EN.png)
 
 
- ⚠️ **Ce bouton affiche l’ensemble des tags pour votre plateforme, ce n’est pas spécifique à un fil thématique. Vous pouvez donc avoir un résultat vide suite à l’application d’un tag sur un fil thématique si le tag n’est pas utilisé dans ce fil. Nous travaillons à vous proposer un filtre dynamique.**
- 
+ ⚠️ **Ce bouton affiche l’ensemble des tags pour votre base de connaissance, ce n’est pas spécifique à un fil thématique. Vous pouvez donc avoir un résultat vide suite à l’application d’un tag sur un fil thématique si le tag n’est pas utilisé dans ce fil. Nous travaillons à vous proposer un filtre dynamique.**
+
 La structure de tags est gérée par un administrateur dans l’espace administration depuis la personal App
 
 

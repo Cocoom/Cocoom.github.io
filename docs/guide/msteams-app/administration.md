@@ -1,7 +1,7 @@
 # Administration
-The administration area is only accessible from the personal app, in the left sidebar. 
+The administration area is only accessible from the personal app, in the left sidebar.
 
-Personal App > Dashboard > Administration 
+Personal App > Dashboard > Administration
 
 ![](https://paper-attachments.dropbox.com/s_33DB8C50A65C2FB0F56B8E23D80EB4FDD5ADB7B9A9A15F5473F1D87424ECDED7_1589102800563_Plan+de+travail+45cocoom-guides-2.png)
 
@@ -11,13 +11,13 @@ Personal App > Dashboard > Administration
 
 **Navigation is simple, the side menu allows you to :**
 
-- see and manage all the publications of your Cocoom platform
+- see and manage all the publications of your Cocoom knowledge base
 - view and manage all thematic feeds
 - view and manage all tags
 - design and send out newsletters
 - select publications that will appear in the "front page".
 - view and manage all users
-- consult statistics and survey results on the entire platform
+- consult statistics and survey results on the entire knowledge base
 
 
 
@@ -40,7 +40,7 @@ In this tab, you can see all the publications of all users.
 
 ## 🎓 Threads = Structure
 
-Your Cocoom visual knowledge base is organized in #thematic threads. 
+Your Cocoom visual knowledge base is organized in #thematic threads.
 
 These #threads are the categories of knowledge that you will be able to associate to teams and add in the tabs. If you have administrator rights, you can modify the structure of your knowledge base to :
 
@@ -82,9 +82,9 @@ It is very important to think carefully about the tag structure and to make it e
 
 ## 🗞 Newsletter
 
-The "Newsletter" feature allows you to design a newsletter from your platform's publications and send it to all users.
+The "Newsletter" feature allows you to design a newsletter from your knowledge base's publications and send it to all users.
 
-📌 **Tip**: ask for the customization of your platform (see offer) to personalize the logos, colors and distribution addresses of your newsletter.
+📌 **Tip**: ask for the customization of your knowledge base (see offer) to personalize the logos, colors and distribution addresses of your newsletter.
 
 **Click on "create a newsletter" then fill in the fields of the form** :
 
@@ -111,7 +111,7 @@ Then click on "**preview**" in the top right-hand corner
 ![](https://paper-attachments.dropbox.com/s_33DB8C50A65C2FB0F56B8E23D80EB4FDD5ADB7B9A9A15F5473F1D87424ECDED7_1589103253539_Plan+de+travail+41cocoom-guides-2.png)
 
 
-⚠️ **A newsletter is sent to all the users of your platform, i.e. all the users present in the "users" tab, including those whose accounts are awaiting validation (an invitation has been sent but not validated by the user). Deactivated users do not receive it, however.**
+⚠️ **A newsletter is sent to all the users of your knowledge base, i.e. all the users present in the "users" tab, including those whose accounts are awaiting validation (an invitation has been sent but not validated by the user). Deactivated users do not receive it, however.**
 
 
 ## 🗞 Breaking news

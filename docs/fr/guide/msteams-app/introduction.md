@@ -1,6 +1,6 @@
 # Introduction
 
-Cocoom est une plateforme de Visual Knowledge, qui aide tous les collaborateurs à partager des informations courtes, synthétiques et attractives au sein de l’entreprise et au delà.  Pour utiliser l’application Cocoom pour Teams, vous devez avoir une licence  Cocoom ainsi q’une licence Office 365 incluant Teams.
+Cocoom est une base de Visual Knowledge, qui aide tous les collaborateurs à partager des informations courtes, synthétiques et attractives au sein de l’entreprise et au delà.  Pour utiliser l’application Cocoom pour Teams, vous devez avoir une licence  Cocoom ainsi q’une licence Office 365 incluant Teams.
 
  **Tour de l'application Cocoom pour Teams**
 

@@ -17,7 +17,7 @@ module.exports = {
       description: 'Premiers pas, guide d\'utilisation, ressources...'
     }
   },
-
+  theme: "book",
   themeConfig: {
     logo: '/logo.png',
 
@@ -120,13 +120,14 @@ function getGettingStarted(language) {
   const prefix = (language ? '/' + language : '') + '/getting-started';
 
   return [
-    prefix + '/users',
+    prefix + '/introduction',
     prefix + '/structure',
     getSideBarItem(language, 'integration', [
+      prefix + '/integration-introduction',
       prefix + '/install-msteams-app',
+      prefix + '/iframe',
       prefix + '/slack',
-      prefix + '/google',
-      prefix + '/iframe'
+      prefix + '/google'
     ], true, 0)
   ]
 };
@@ -211,6 +212,7 @@ function getGuide(language) {
   const prefix = (language ? '/' + language : '') + '/guide';
 
   return [
+    prefix + '/introduction',
     getGuideMSTeamsApp_Subdirectory(prefix, language, true, 0),
     getGuideWebApp_Subdirectory(prefix, language, true, 0)
   ];
@@ -225,8 +227,10 @@ function getAvancedUsage(language) {
   const prefix = (language ? '/' + language : '') + '/advanced';
 
   return [
+    prefix + '/introduction',
     prefix + '/requirements',
     prefix + '/authentication',
+    prefix + '/users',
     prefix + '/data-hosting',
     prefix + '/privacy',
     prefix + '/security'

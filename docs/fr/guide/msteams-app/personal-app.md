@@ -43,7 +43,7 @@ Chaque vue vous autorise à filtrer l’information et possède un raccourci pou
 
 ## Tableau de bord
 
-L’onglet tableau de bord vous donne accès à tout votre back office et vous permet de gérer vos publications et l’administration de la plateforme.
+L’onglet tableau de bord vous donne accès à tout votre back office et vous permet de gérer vos publications et l’administration de la base de connaissance.
 
 **Mes publications,** pour la gestion de l’ensemble de vos publications
 
