@@ -14,3 +14,5 @@ We have organized this guide by usage you make of Cocoom.
 👨🏻‍✈️ [Read](./web-app/introduction.md)
 
 Note: you will find the exact same functionalities in the Cocoom desktop application.
+
+[Apps](https://cocoom.com/app-integrations)
