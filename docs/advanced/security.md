@@ -4,7 +4,7 @@
 
 Only authorized personnel (designated DevOps) have access to the technical infrastructure.
 
-Ongoing sensitization of staff to data and system security.
+Our security policy includes ongoing sensitization of technical staff to data and system security.
 
 
 ## Transmission of data
@@ -22,22 +22,21 @@ All data transmissions between Cocoom, our users and our technical infrastructur
 - Up-to-date A+ level certificate issued by SSL Labs services
 
 
-## Applicative
+## Software
 
-All data stored in the user's browser is encrypted (authentication cookie).
-
+All data stored in the user's browser is encrypted or encoded according to its level of sensitivity.
 
 - The principle of sending the minimum amount of useful information to customers is ensured.
-- The principle of retrieving the minimum amount of information useful for the proper functioning of the platform is ensured.
+- The principle of retrieving the minimum amount of information useful for the proper functioning of Cocoom service is ensured.
 
 
 ## XSS (Code Injection Security System)
 
-Cocoom access URLs as well as data transmitted via web forms are filtered to prevent any injection of malicious code.
+Cocoom URLs as well as data transmitted via web forms are filtered to prevent any injection of malicious code.
 
 Cocoom has a unique and mandatory gateway to access its services, which ensures the security of the data received in order to prevent any code injection.
 
-In addition, we train our technical staff and respect best practices in order to avoid XSS type attacks on the platform.
+In addition, we continously train our technical team and stick to best practices in order to avoid XSS attacks.
 
 
 ## Backup
@@ -47,13 +46,11 @@ In addition, we train our technical staff and respect best practices in order to
 
 ## Incident alerts
 
-A tool for automating the reporting of technical incidents or security faults is available. (dedicated web page: https://status.cocoom.com)
+A tool for automating the reporting of technical incidents or security faults is available : [status page](https://status.cocoom.com)
 
-These feedbacks are also made by email to the CIO contact of our customers.
+These feedbacks are also made, manually, by email to the CIO contact of our customers.
 
 
 ## Insurance
 
-Cocoom has a valid RCPro insurance adapted to the software publisher's business.
-Sans titre
-
+Cocoom has a valid Pro civil liability insurance adapted to software editor's industry.
