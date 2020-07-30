@@ -224,8 +224,8 @@ function getGuide(language) {
 
   return [
     prefix + '/overview',
-    getGuideMSTeamsApp_Subdirectory(prefix, language, true, 0),
-    getGuideWebApp_Subdirectory(prefix, language, true, 0)
+    getGuideMSTeamsApp_Subdirectory(prefix, language, false, 0),
+    getGuideWebApp_Subdirectory(prefix, language, false, 0)
   ];
 };
 
