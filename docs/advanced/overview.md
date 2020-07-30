@@ -3,7 +3,7 @@
 You'll find here information about
 
 - the trust you can put into Cocoom
-- how you can project to include Cocoom in your own softwares ecosystem.
+- how you can plan to include Cocoom in your own softwares ecosystem.
 
 **👨‍💻 Requirements**
 
