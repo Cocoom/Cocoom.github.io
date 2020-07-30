@@ -87,5 +87,5 @@ Ces intégrations peuvent se faire sur une page web, ou dans d’autres outils l
 ![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589108697056_Capture-decran-2019-05-23-a-09.16.19.png)
 
 
-Si vous souhaitez tester cette fonctionnalité, rien de plus simple, vous pouvez accéder à notre [catalogue d'iframes](/fr/getting-started/iframe.html#list-of-iframes-urls-available) dans la section configuration.
+Si vous souhaitez tester cette fonctionnalité, rien de plus simple, vous pouvez accéder à notre [catalogue d'iframes](/fr/getting-started/iframe.md#liste-des-url-d-iframes-disponible) dans la section configuration.
 

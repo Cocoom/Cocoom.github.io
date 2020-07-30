@@ -1,4 +1,4 @@
-# Introduction
+# Présentation
 
 Tant qu'administrateur Cocoom, structurer sa base de connaissance est un bon point de départ. Allons-y !
 

@@ -1,4 +1,5 @@
-# Introduction
+# Overview
+
 Cocoom is a Visual Knowledge knowledge base that helps all employees share short, synthetic and attractive information within the company and beyond.  To use the Cocoom as a Teams App, you need a Cocoom license and an Office 365 license that includes Teams.
 
 

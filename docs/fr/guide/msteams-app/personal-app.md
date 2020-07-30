@@ -9,18 +9,11 @@ Votre App personnelle est accessible depuis l’App bar, la barre latérale plac
 
 Vous pouvez y accéder depuis les 3 petits points, qui vous mènent à toutes les applications disponibles pour vous, ou bien vous pouvez l’épingler sur l’App Bar pour l’avoir toujours à portée de main.
 
-**Astuce :** pour épingler votre Application Cocoom dans votre App Bar, ouvrez Cocoom, faites un clic droit sur l’icone de l’application dans l’App Bar et cliquez sur “📌 **épingler**”
-
+::: tip ASTUCE
+Pour épingler votre Application Cocoom dans votre App Bar, ouvrez Cocoom, faites un clic droit sur l’icone de l’application dans l’App Bar et cliquez sur “📌 **épingler**”
+:::
 
 ![](https://paper-attachments.dropbox.com/s_B0EF110294C4CCF2C25CCF0850B0E273AD055025C011A598910566C22717393F_1588955928792_pin-to-AppBar.png)
-
-
-
-
-
-
-
-
 
 
 

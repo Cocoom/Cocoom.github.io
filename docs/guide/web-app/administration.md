@@ -35,7 +35,9 @@ For each of them you have the possibility to :
 - unpublish
 - delete
 
-📌 Tip: if you need to create a publication involving several users, simply give them an "administrator" profile so that they can have sufficient rights to edit the same publication together.
+::: tip
+📌 If you need to create a publication involving several users, simply give them an "administrator" profile so that they can have sufficient rights to edit the same publication together.
+:::
 
 ![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.21.32.png)
 
@@ -84,7 +86,9 @@ It is very important to think carefully about the tag structure and to make it e
 
 The "Newsletter" feature allows you to design a newsletter from your platform's publications and send it to all users.
 
-📌 Tip: ask for the customization of your platform (see offer) to personalize the logos, colors and distribution addresses of your newsletter.
+::: tip
+📌 Ask for the customization of your platform (see offer) to personalize the logos, colors and distribution addresses of your newsletter.
+:::
 
 Click on "create a newsletter" then fill in the fields of the form :
 
@@ -143,6 +147,8 @@ In the users tab you will be able to :
 
 To add several users at once, you can simply copy/paste a list of emails in the dedicated text area.
 
+You can also choose their profile.
+
 ![](/img/en/guide/admin-user-list.png)
 
 
@@ -170,6 +176,8 @@ The user will get back everything like its was before his deactivation.
 You can delete a user from your Cocoom if he was deactivated before.
 In that case, you won't see that user in your users list anymore.
 
--Everything done by this user will still be there.
+::: tip NOTE
+Everything done by this user will still be there.
+:::
 
 He will no more be listed into your Cocoom directory.

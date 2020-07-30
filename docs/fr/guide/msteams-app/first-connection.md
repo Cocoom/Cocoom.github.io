@@ -49,12 +49,12 @@ Tableau de bord > mon profil
 - La partie “parcours” est un champs texte libre… à vous de voir ce que vous en faites !
 - le portrait chinois est beaucoup plus parlant lorsque vous y ajoutez des emoji
 
-ASTUCE
+::: tip ASTUCE
 pour faire apparaitre le clavier emoji tapez :
 
 - sur windows : **windows** / **;**
 - sur mac : **control** / **command** / **espace**
-
+:::
 
 ![](https://paper-attachments.dropbox.com/s_042AD06CC066ED6C1A952241C5898345CE5BFFF6E035AE65BE95ABAE3F38D4D5_1588950847294_Plan+de+travail+23cocoom-guides_EN.png)
 

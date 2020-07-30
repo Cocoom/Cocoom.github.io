@@ -25,7 +25,7 @@ Cocoom is visual widgets for your intranet.
 
 ### Slack
 
-- [OIDC with Slack](./google.md)
+- [OIDC with Slack](./slack.md)
 
 ### Azure Active Directory
 
@@ -39,10 +39,10 @@ Cocoom notify your team mates with the right information, at the right time, to 
 
 ### In Microsoft Teams
 
-- [Notifications in Teams](/guide/msteams-app/notifications)
+- [Notifications in Teams](../guide/msteams-app/notifications.md#teams-notifications)
 
 
 ### In Slack
 
-- [Notifications in Slack](./slack#step-4-configure-cocoom-notifications-in-slack)
+- [Notifications in Slack](./slack.md#step-4-configure-cocoom-notifications-in-slack)
 

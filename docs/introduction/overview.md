@@ -12,11 +12,11 @@ When you want to share knowledge within a team, an organization, a community, we
 
 **This base is a dedicated Cocoom platform, with :**
 
-- a personalized URL (you choose a subdomain )
+- a personalized URL (you choose a subdomain)
 - a structure and content that you create
-- of the users you manage
+- users you manage
 
-**You can manage this knowledge base without special technical skills and these online guides allow you to be self-sufficient.**
+**You can manage this knowledge base without special technical skills and these online guides will allow you to be self-sufficient.**
 
 The creation of a platform is free of charge and can be done online : [Sign up page](https://start.cocoom.com/signup?lng=en)
 

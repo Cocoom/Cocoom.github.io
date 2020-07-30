@@ -1,8 +1,10 @@
-# Authentication with Google
+# Authentication through Google
 
-Cocom enables GSuite users to authenticate to Cocoom.
-Users use their Google Suite credentials to sign in to Cocoom.
+Cocoom enables GSuite users to authenticate to Cocoom.
 
+::: tip CREDENTIALS
+Users use their Google Suite credentials to sign-in to Cocoom.
+:::
 
 - Security: Cocoom never know your users passwords.
 - Governance: IT department can apply its internal security policy and manage GSuite users, as usual, from GSuite admin console.
@@ -67,7 +69,7 @@ To allow GSuite users to be able to authenticate through the previously created 
 Those are the two requested information required by Cocoom support team to allow your GSuite users to authenticate to your  Cocoom base.
 
 
-## 🏆 Send us the information
+## 🏆 Send us back these information
 
 Those requested information will be used by the Cocoom support team to create the authentication link between your GSuite and your Cocoom accounts.
 

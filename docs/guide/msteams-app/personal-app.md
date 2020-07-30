@@ -8,8 +8,9 @@ Your personal application allows you to manage all your knowledge and to access 
 Your personal App is accessible from the App bar, the sidebar on the left.
 You can access it from the 3 small dots, which lead you to all the apps available for you, or you can pin it to the App Bar so you always have it close at hand.
 
-**Tip** : to pin your Cocoom Application in your App Bar, open Cocoom, right click on the application icon in the App Bar and click on "**📌 pin**".
-
+::: tip
+To pin your Cocoom Application in your App Bar, open Cocoom, right click on the application icon in the App Bar and click on "**📌 pin**".
+:::
 
 ![](https://paper-attachments.dropbox.com/s_8894E2FBE9AD3017C65D16C51280436AF8E7C074199AC5F0B238D3A761969E33_1588955892618_pin-to-AppBar.png)
 

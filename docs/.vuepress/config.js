@@ -101,6 +101,17 @@ module.exports = {
       {
         'ga': 'UA-130889610-4'
       }
+    ],
+    [
+      'register-components',
+      {
+        components: [
+          {
+            name: 'Redirect',
+            path: 'Redirect.vue'
+          }
+        ]
+      }
     ]
   ]
 }
@@ -120,7 +131,7 @@ function getGettingStarted(language) {
   const prefix = (language ? '/' + language : '') + '/getting-started';
 
   return [
-    prefix + '/introduction',
+    prefix + '/overview',
     prefix + '/structure',
     getSideBarItem(language, 'integration', [
       prefix + '/integration-introduction',
@@ -141,7 +152,7 @@ function getIntroduction(language) {
   const prefix = (language ? '/' + language : '') + '/introduction';
 
   return [
-    prefix + '/presentation',
+    prefix + '/overview',
     prefix + '/access'
   ];
 };
@@ -152,7 +163,7 @@ function getGuideMSTeamsApp_Subdirectory(parentPath, language, collapsable = fal
 
   return getSideBarItem(language, 'msteams-app',
     [
-      prefix + '/introduction',
+      prefix + '/overview',
       prefix + '/first-connection',
       prefix + '/personal-app',
       prefix + '/teams-tabs',
@@ -189,7 +200,7 @@ function getGuideWebApp_Subdirectory(parentPath, language, collapsable = false, 
   // Describing the sidebar that way prevents us from creating a lot of internationalized (i18n) labels
   return getSideBarItem(language, 'web-app',
     [
-      prefix + '/introduction',
+      prefix + '/overview',
       prefix + '/settings',
       prefix + '/actions',
       prefix + '/interact',
@@ -212,7 +223,7 @@ function getGuide(language) {
   const prefix = (language ? '/' + language : '') + '/guide';
 
   return [
-    prefix + '/introduction',
+    prefix + '/overview',
     getGuideMSTeamsApp_Subdirectory(prefix, language, true, 0),
     getGuideWebApp_Subdirectory(prefix, language, true, 0)
   ];
@@ -227,13 +238,13 @@ function getAvancedUsage(language) {
   const prefix = (language ? '/' + language : '') + '/advanced';
 
   return [
-    prefix + '/introduction',
+    prefix + '/overview',
     prefix + '/requirements',
     prefix + '/authentication',
     prefix + '/users',
-    prefix + '/data-hosting',
-    prefix + '/privacy',
-    prefix + '/security'
+    prefix + '/hosting',
+    prefix + '/security',
+    prefix + '/privacy'
   ];
 };
 
@@ -243,9 +254,9 @@ function getAvancedUsage(language) {
  */
 function getSidebar(language) {
   return [
-    getSideBarItem(language, 'introduction', getIntroduction(language), true, 1),
+    getSideBarItem(language, 'overview', getIntroduction(language), true, 1),
     getSideBarItem(language, 'getting-started', getGettingStarted(language), true, 1),
     getSideBarItem(language, 'guide', getGuide(language), true, 0),
-    getSideBarItem(language, 'advanced', getAvancedUsage(language), true, 0)
+    getSideBarItem(language, 'advanced', getAvancedUsage(language), true, 1)
   ];
 };

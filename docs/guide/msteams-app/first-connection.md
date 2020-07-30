@@ -49,11 +49,12 @@ To retrieve or modify your profile go to : Dashboard > my profile
 - The "path" part is a free text field... you can see what you do with it!
 - the chinese portrait is much more meaningful when you add emoji to it
 
-
-TIP to bring up the emoji keyboard type :
+::: tip
+To bring up the emoji keyboard type :
 
 - on windows : **windows** / **;**
 - on mac : **control** / **command** / **space**
+:::
 
 
 ![](https://paper-attachments.dropbox.com/s_5717021DC80B8DBE19E6F19439BD7203EF9C799E1613208534D99CB586604C8E_1588951181866_Plan+de+travail+23cocoom-guides_EN.png)

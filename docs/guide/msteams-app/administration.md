@@ -31,8 +31,9 @@ In this tab, you can see all the publications of all users.
 - unpublish
 - delete
 
-📌 **Tip**: if you need to create a publication involving several users, simply give them an "administrator" profile so that they can have sufficient rights to edit the same publication together.
-
+::: tip
+📌 If you need to create a publication involving several users, simply give them an "administrator" profile so that they can have sufficient rights to edit the same publication together.
+:::
 
 ![](https://paper-attachments.dropbox.com/s_33DB8C50A65C2FB0F56B8E23D80EB4FDD5ADB7B9A9A15F5473F1D87424ECDED7_1589102919573_Plan+de+travail+44cocoom-guides-2.png)
 
@@ -84,7 +85,9 @@ It is very important to think carefully about the tag structure and to make it e
 
 The "Newsletter" feature allows you to design a newsletter from your knowledge base's publications and send it to all users.
 
-📌 **Tip**: ask for the customization of your knowledge base (see offer) to personalize the logos, colors and distribution addresses of your newsletter.
+::: tip
+📌 Ask for the customization of your knowledge base (see offer) to personalize the logos, colors and distribution addresses of your newsletter.
+:::
 
 **Click on "create a newsletter" then fill in the fields of the form** :
 

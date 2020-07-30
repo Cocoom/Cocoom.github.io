@@ -35,8 +35,6 @@ Une publication ne peut pas être associée à deux #fils thématiques
 
 
 
-- voir comment gérer ses fils
-- astuces création de structure
 ## Tags
 
 Les tags représentent un second niveau de spécification pour une publication, ils permettent d’ajouter des mots clés qui simplifieront le tri ou la recherche des publications.

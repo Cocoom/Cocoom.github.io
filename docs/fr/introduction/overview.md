@@ -1,4 +1,4 @@
-# Présentation Cocoom
+# Présentation de Cocoom
 
 ## Philosophie
 

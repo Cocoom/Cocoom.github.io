@@ -1,75 +1,61 @@
-# Users & Authentication
-The user profile and the authentication system is set up on a given database and for the entire database. 
+# 👨‍💻 Users
+
+::: tip
+A Cocoom user profile is set up by knowledge base.
+:::
+
+## Role Based Access Control
+
+Cocoom gives you the choice among 3 different user profiles.
+
+User profiles are configured in the Cocoom administration interface and can be modified at any time.
+
+::: tip SOON
+Users profiles will be able to be assigned by default when using auto-provisioning mode.
+:::
+
+|                                                                      | 👀<br/>reader         | ✍️ contribuor | 👑 administrator |
+| -------------------------------------------------------------------- | --------------------- | ------------- | ---------------- |
+| <h2>Consult</h2>                                                     |                       |               |                  |
+| read publication and sharing                                         | ✅                    | ✅             | ✅                |
+| interact (vote, comment, applause)                                   | ✅                    | ✅             | ✅                |
+| search                                                               | ✅                    | ✅             | ✅                |
+| consult notifications                                                | ✅                    | ✅             | ✅                |
+| manage bookmarks                                                     | ✅                    | ✅             | ✅                |
+| edit my user description                                             | ✅                    | ✅             | ✅                |
+| receive newsletter                                                   | ✅                    | ✅             | ✅                |
+| receive daily digest                                                 | ✅                    | ✅             | ✅                |
+| subscribe to threads                                                 | ✅                    | ✅             | ✅                |
+| view “my interactions”                                               | ✅                    | ✅             | ✅                |
+| view user profile                                                    | ✅ can be deactivated | ✅             | ✅                |
+| consult directory                                                    | ✅ can be deactivated | ✅             | ✅                |
+| <h2>Publish</h2>                                                     |                       |               |                  |
+| create publication                                                   |                       | ✅             | ✅                |
+| create sharing                                                       |                       | ✅             | ✅                |
+| create personal-scoped template                                      |                       | ✅             | ✅                |
+| export publication as PDF                                            |                       | ✅             | ✅                |
+| create organization-wide template                                    |                       |               | ✅                |
+| <h2>Administrate</h2>                                                |                       |               |                  |
+| manage publications (add, modify, unpublish, delete )                |                       |               | ✅                |
+| manage threads  (add, modification, delete, sort, share)             |                       |               | ✅                |
+| manage tags  (add, modification, delete )                            |                       |               | ✅                |
+| select publications for "breaking news" headlines                    |                       |               | ✅                |
+| send newsletter                                                      |                       |               | ✅                |
+| consult polls stats                                                  |                       |               | ✅                |
+| consult publications stats                                           |                       |               | ✅                |
+| manage users (add, invite again, update profile, deactivate, remove) |                       |               | ✅                |
 
 
+## Multi-bases users
 
-## User profiles
+All the settings in this section can be set for 1 given Cocoom knowledge base and for 1 given user (identified by its email).
 
-Cocoom has three user profiles. User profiles are determined in the Cocoom administration interface and can be modified at any time. Profiles can be configured by default with SSO authentication
+A user can be invited to be part of several knowledge bases. In that case, these settings can be different for each of them.
 
-|                                                                 | 👀 reader            | ✍️ contribuor    | 👑 administrator |
-| --------------------------------------------------------------- | -------------------- | ---------------- | ---------------- |
-| **Consult**                                                     |                      |                  |                  |
-| read publication and share                                      | ✅                    | ✅                | ✅                |
-| interact (vote, comment, applause)                              | ✅                    | ✅                | ✅                |
-| search                                                          | ✅                    | ✅                | ✅                |
-| consult his own notifications                                   | ✅                    | ✅                | ✅                |
-| handle his bookmarks                                            | ✅                    | ✅                | ✅                |
-| receive newsletter                                              | ✅                    | ✅                | ✅                |
-| receive daily digest                                            | ✅ can be deactivated | ✅                | ✅                |
-| subscribe to threads                                            | ✅ can be deactivated | ✅                | ✅                |
-| create a profil                                                 | ✅ can be deactivated | ✅                | ✅                |
-| consult directory                                               | ✅ can be deactivated | ✅                | ✅                |
-| **Publish**                                                     |                      |                  |                  |
-| create publication                                              |                      | ✅                | ✅                |
-| create share                                                    |                      | ✅                | ✅                |
-| access “my activity”                                            |                      | ✅                | ✅                |
-| create a personal template                                      |                      | ✅                | ✅                |
-| create an organization template                                 |                      |                  | ✅                |
-| export a publication as a infographic                           |                      | peut être étendu | ✅                |
-| **Administration**                                              |                      |                  |                  |
-| administrate all publications (add, modify, unpublish, delete ) |                      |                  | ✅                |
-| administrate threads  (add, modification, delete )              |                      |                  | ✅                |
-| administrate tags  (add, modification, delete )                 |                      |                  | ✅                |
-| Select publication for headlines                                |                      |                  | ✅                |
-| send newsletter                                                 |                      |                  | ✅                |
-| consult polls ans statistics                                    |                      |                  | ✅                |
-| administrate users ( add, change profil, deactivate, remove)    |                      |                  | ✅                |
+::: tip EXAMPLE
+John Doe, Marketing Director of the company Acme has 3 different bases access associated to his email address :
 
-
-
-
-## Authentication in Cocoom
-
-Authentication is the way a user is authorized to access a Cocoom database.
-**The authentication system applies to the whole base and cannot be multiple on the same base**. If the authentication chosen is SSO Office 365 then all users will log in via SSO Office 365.
-
-If you want to give access to a group of third parties (such as customers, suppliers or partners) you will have to create a new database with a simple authentication system and possibly connect it in HUB to share feeds and content between these two databases.
-
-
-## Supported Authentications
-
-Cocoom offers several authentication systems, this list is regularly updated, do not hesitate to contact us if you want us to add new systems.
-
-**simple authentication**
-
-    - Cocoom (by default): creation of Cocoom user accounts with email and password.
-
-**SSO authentication**
-
-    - Office 365
-    - Slack
-    - Google Suite
-    - Open ID connect
-
-
-## Multi-account users
-
-All the settings in this section are made on a given Cocoom database and for a given email. If a user has access to several databases (internal or external) or with several email addresses, these settings can be different on each of them.
-
-Example: John Doe, Marketing Director of the company Acme has 3 different accesses on his email address
-
-    > acme.cocoom.com: contributor of the global base of his company + SSO connection
-    > acme-marketing.cocoom.com : administrator of the marketing database + SSO connection
-    > mktg-club.cocoom.com: reader of the external database of his marketing manager's club
-
+- *acme.cocoom.com* : **contributor** on the global knowledge base of his company,
+- *acme-marketing.cocoom.com* : **administrator** of the marketing service dedicated knowledge base,
+- *mktg-club.cocoom.com* : **reader** on the external base dedicated to his marketing manager's club.
+:::

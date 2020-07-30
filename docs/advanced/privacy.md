@@ -1,13 +1,13 @@
 # ⚖️ Privacy & RGPD
 
-Find our privacy policy on cocoom.com
+Find our privacy policy on [cocoom.com](https://cocoom.com/privacy-policy/?lang=en)
 
 Cocoom's privacy policy explains how we collect your personal data, in the strictest respect of your rights, and how this data is used. When we refer to "Cocoom", "we", "us" or "our", we are referring to Cocoom SAS.
 
 
 ## 📚 Definition and nature of personal data
 
-When you use the services accessible on our website, https://cocoom.com/, hereinafter referred to as "Cocoom", we may ask you to provide us with personal data. By "personal data", we mean any data that allows a person to be identified, such as your surname, first name, photo or e-mail address, as well as any other information you choose to provide us with.
+When you use the services accessible from our website, https://cocoom.com/ or a dedicated Platform sub-domain https://<DOMAIN.cocoom.com> or Cocoom App in Microsoft Teams, hereinafter referred to as "Cocoom", we may ask you to provide us with personal data. By "personal data", we mean any data that allows a person to be identified, such as your surname, first name, photo or e-mail address, as well as any other information you choose to provide us with.
 
 
 ## 🔐 Use of your personal data
@@ -35,10 +35,11 @@ When registering, the User provides the following personal data:
 
 When using the Platform, Cocoom is also likely to collect the following personal data from the User:
 
-- Comments,
+- comments text,
 - its interactions with the content (polling, applause, bookmarking),
 - its publications of text, images or videos,
-- the history of his research.
+- the history of what he read.
+- the technical history of his actions (publish, comment, ...).
 
 The sole purpose of processing the data collected is to identify the User and to ensure the proper functioning and use of the Platform by Users.
 Cocoom undertakes to collect personal data only for the precise, explicit and legitimate purposes mentioned above and not to process them in a manner incompatible with these purposes.
@@ -60,15 +61,13 @@ Cocoom will in no way be responsible for the data protection carried out by the 
 
 ## ⚠️ Notification of incident
 
-
 No matter how hard you try, no method of transmission over the Internet and no method of electronic storage is completely secure. Therefore, we cannot guarantee absolute security. If we become aware of a security breach, we will notify the users concerned so that they can take appropriate action. Our incident notification procedures take into account our legal obligations, whether at national or European level. We are committed to keeping our customers fully informed of all matters relating to the security of their accounts and to providing them with all necessary information to help them meet their own regulatory reporting obligations.
 
-No personal information of the Cocoom user is published without the user's knowledge, exchanged, transferred, assigned or sold in any medium whatsoever to third parties. Only if Cocoom and its rights were to be acquired would the said information be transmitted to the potential acquirer, who would in turn be bound by the same obligation to keep and modify the data vis-à-vis the Cocoom user.
+No personal information of the Cocoom user is published without the user's knowledge, exchanged, transferred, assigned or sold in any medium whatsoever to third parties. Only if Cocoom and its rights were to be acquired would the said information be transmitted to the potential acquirer, who would in turn be bound by the same obligation to keep and modify the Cocoom user data.
 
 
 
 ## ✅ Security
-
 
 To ensure the security and confidentiality of Personal Data, Cocoom uses networks protected by standard devices such as firewalls, pseudonymization, encryption and passwords.
 
@@ -78,15 +77,10 @@ When processing Personal Data, Cocoom takes all reasonable measures to protect t
 
 ## 🤝 Consent
 
-
 When you choose to provide your personal data, you expressly consent to the collection and use of your personal data in accordance with the provisions of this Privacy Policy and applicable law.
 
 
 
 ## 📍 Applicable law and jurisdiction
 
-
 Any dispute in connection with the use of the Cocoom site is subject to French law. Except in cases where the law does not allow it, exclusive jurisdiction is given to the competent courts of Lyon.
-
-
-

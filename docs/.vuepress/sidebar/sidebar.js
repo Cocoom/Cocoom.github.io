@@ -4,8 +4,8 @@
  */
 function getSidebarLabels() {
   return {
-    "introduction": {
-      "en": "Introduction",
+    "overview": {
+      "en": "Overview",
       "fr": "Présentation"
     },
     "getting-started": {
@@ -29,7 +29,7 @@ function getSidebarLabels() {
       "fr": "Intégrations"
     },
     "advanced": {
-      "en": "⚙️ Advanced info",
+      "en": "⚙️ Advanced resources",
       "fr": "⚙️ Info complémentaires"
     }
   };

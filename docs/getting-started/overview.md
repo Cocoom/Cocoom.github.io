@@ -1,4 +1,4 @@
-# Introduction
+# Overview
 
 As a Cocoom administrator, a first good step is to structure your knowledge base. Let's get into it !
 

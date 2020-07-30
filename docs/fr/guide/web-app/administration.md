@@ -36,8 +36,9 @@ Pour chacun d’entre eux vous avez la possibilité de le :
 - dépublier
 - supprimer
 
-📌 **Astuce** : si vous avez besoin de créer une publication en impliquant plusieurs utilisateurs, il vous suffit de leur donner un profil “administrateur” pour qu’ils puissent avoir les droits suffisants pour éditer ensemble la même publication.
-
+::: tip ASTUCE
+📌 Si vous avez besoin de créer une publication en impliquant plusieurs utilisateurs, il vous suffit de leur donner un profil “administrateur” pour qu’ils puissent avoir les droits suffisants pour éditer ensemble la même publication.
+:::
 
 ![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.21.32.png)
 
@@ -88,7 +89,9 @@ Il est très important de bien penser sa structure de tags et de la faire évolu
 
 La fonctionnalité “Newsletter” vous permet de concevoir une newsletter à partir des publications de votre plateforme et de les envoyer à l’ensemble des utilisateurs.
 
-📌 **Astuce :** demandez la personnalisation de votre plateforme (voir offre) pour personnaliser les **logos, couleurs et adresses de diffusion** de votre newsletter.
+::: tip ASTUCE
+📌 Demandez la personnalisation de votre plateforme (voir offre) pour personnaliser les **logos, couleurs et adresses de diffusion** de votre newsletter.
+:::
 
 Cliquez sur “**créer une newsletter**” puis remplissez les champs du formulaire :
 

@@ -28,13 +28,7 @@ A publication must be made in a #thematic thread, by default it can be named "Ge
 
 A publication cannot be associated with two #thematic threads.
 
-
 ![](https://paper-attachments.dropbox.com/s_F856C17E19B32D7F12575C213249F66BF49FE79B2A865CE0CB2FB24EAE85A111_1589091876845_Plan+de+travail+39cocoom-guides-2.png)
-
-
-
-- see how to manage your threads
-- structure building tips
 
 
 

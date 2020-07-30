@@ -2,24 +2,45 @@
 
 ## Internal access restriction
 
-Only authorized personnel (designated DevOps) have access to the technical infrastructure.
+Only authorized personnel (designated DevOps) has access to Cocoom infrastructure, preventing, at best, potential social engineering hacking.
 
-Our security policy includes ongoing sensitization of technical staff to data and system security.
+Our security policy includes ongoing sensitivation of technical staff to data and system security (Devs, DevOps as well as Customer Support team).
 
 
-## Transmission of data
+## Data traffic encryption
 
 All data transmissions between Cocoom, our users and our technical infrastructure are encrypted.
 
-**Between Cocoom and its infrastructure**
+![Secured data transmission](/img/infra/infra_data-security.png)
 
-- All web communications are encrypted by TLS (https).
+
+Our servers inter-operate exclusively in a private network (VLAN) inside each cloud provider.
+
+To make our apps communicate to each other accross our 2 cloud suppliers, we only use HTTPS protocol & an API Key (that we change regularly) dedicated to each App.
+
+
+### Between Cocoom DevOps|Support teams and Cocoom infrastructure
+
+- Web communications encrypted by TLS v1.2 (HTTPS).
 - All other levels of communication are encrypted by SSH.
 
-**Between the users and the Cocoom infrastructure**
+::: danger DEVOPS
+Access to Cocoom infrastructure can only be possible by :
 
-- Web communication only, encrypted by TLS (https).
-- Up-to-date A+ level certificate issued by SSL Labs services
+- a two-factor authentication authorizing access to Cocoom's infrastructure management services,
+- an asymetric key authentication (public/private) where only the keys of the few duly authorized DevOps are installed inside Cocoom infrastructure.
+:::
+
+### Between Cocoom users (you) and Cocoom infrastructure
+
+- Web communication only, encrypted by TLS v1.2 (HTTPS).
+- Up-to-date **A+** level certificate issued by SSL Labs services
+
+![SSLLabs rating](/img/infra/security_ssllabs-rating.png)
+
+::: tip CHECK
+You can test it by yourself by clicking [HERE](https://www.ssllabs.com/ssltest/analyze.html?d=acme.cocoom.com)
+:::
 
 
 ## Software
@@ -34,21 +55,22 @@ All data stored in the user's browser is encrypted or encoded according to its l
 
 Cocoom URLs as well as data transmitted via web forms are filtered to prevent any injection of malicious code.
 
-Cocoom has a unique and mandatory gateway to access its services, which ensures the security of the data received in order to prevent any code injection.
+Cocoom owns a unique gateway, to access its services, embedding a layer of security for received data.
 
-In addition, we continously train our technical team and stick to best practices in order to avoid XSS attacks.
+There's no way to bypass this security layer to get access to your data.
 
-
-## Backup
-
-2 daily secure backups are ensured for all our customers' data. We keep the last 48 hours of backups.
+::: warning CONTINOUS TRAINING
+We keep training our technical team, stick to best practices in order to avoid XSS attacks.
+:::
 
 
 ## Incident alerts
 
-A tool for automating the reporting of technical incidents or security faults is available : [status page](https://status.cocoom.com)
+We use internal tools helping us to automatically monitor our infrastructure.
 
-These feedbacks are also made, manually, by email to the CIO contact of our customers.
+We use a web tool, publicly available, for automating the reporting of technical incidents and let you know an up-to-date Cocoom status : [status page](https://status.cocoom.com)
+
+Feedbacks are also sent manually, by email, to our customers CIO contacts, if applicable.
 
 
 ## Insurance
