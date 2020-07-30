@@ -16,7 +16,7 @@ All data transmissions between Cocoom, our users and our technical infrastructur
 
 Our servers inter-operate exclusively in a private network (VLAN) inside each cloud provider.
 
-To make our apps communicate to each other accross our 2 cloud suppliers, we only use HTTPS protocol & an API Key (that we change regularly) dedicated to each App.
+To make our apps communicate to each other accross our 2 cloud suppliers, we rely on HTTPS protocol & API Key dedicated to each App.
 
 
 ### Between Cocoom DevOps|Support teams and Cocoom infrastructure
