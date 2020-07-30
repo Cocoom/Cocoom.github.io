@@ -17,7 +17,7 @@ You'll find here information about
 
 [Read](./users.md)
 
-**🌍 Data hosting**
+**🌍 Hosting**
 
 [Read](./hosting.md)
 
