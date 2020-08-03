@@ -1,45 +1,41 @@
-# &lt;iframes&gt; directory
-
+# &lt;iframes&gt; list
 
 ## Definition
 
-The iframes allow you to integrate all or part of your Cocoom platform, to integrate it on an intranet, an extranet, a web page,...You will be able to display parts of your visual knowledge platform in other tools.
+The iframes allow you to integrate part of your Cocoom knowledge base, to integrate it into your exiting tools: on an intranet, an extranet, a web page, a desktop app containing web integration, ...
 
-You must master the insertion of iframe on a web page, or have tools that allow you to do so.
+To do this, you must know how to insert iframe on a web page, or have tools that allow you to do so.
 
-🕵️ All these "windows" will always be protected, users must be authorized and connected to display the content of an &lt;iframes&gt; Cocoom, either by an automatic SSO connection, or by their Cocoom identifier. This cannot be displayed publicly on your website.
+🕵️ All these "windows" will always be protected, users must be authorized and connected to display the content of an &lt;iframes&gt; Cocoom, either by an automatic SSO connection, or by their Cocoom credentials.
 
-If you wish to distribute Cocoom to a large public, to a community, "extranet" packages allowing a large volume of readers are available, please contact the sales department sales@cocoom.com.
+::: warning
+Cocoom iframes cannot be publicly displayed on your website.
+:::
+
+::: tip READERS
+If you wish to make Cocoom be available to a wide audience / to a community of readers, "extranet" package allowing a large volume of readers is available.
+
+Contact the sales department to know more about it : [sales@cocoom.com](mailto:sales@cocoom.com).
+:::
 
 
-## List of iframes URLs available
+## List of available iframes URLs
 
-☝️ the base URL path is always the same: https://<YOUR_DOMAIN>.cocoom.com/embed
+::: tip ☝️ Base URL path is always the same
+https://<YOUR_DOMAIN>.cocoom.com/embed
+:::
 
 You must then add the following URL parts after your base URL to create your custom iframe.
-
-Available for  **👀 player profile :**
 
 
 | **Cocoom Part**    | **URL**                       | **Details**                                                 |
 | ------------------ | ----------------------------- | ----------------------------------------------------------- |
-| My selection       | /myselection                  | page of selection                                           |
-| Breaking News      | /breakingnews                 | all “breakin news” page                                     |
-| Headlines          | /headlines                    | just the headline of breaking news page                     |
-| a specific channel | /channels/ID du fil           | all publications of a specific channel (also called thread) |
-| Directory           | /-/directory                  | complete directory                                           |
-| User profile       | /-/people/ID de l’utilisateur | just a specific profile                                     |
-| Notifications      | /notifications                | all notification (for a user)                               |
-| Search             | /-/search                     | search page                                                 |
-| My suscriptions    | /-/settings/subscriptions     | suscriptions of a user                                      |
-| My profile         | /-/settings/profile           | profile settings                                            |
-
-
-Available for  **✍️👀 contributor profile**  :
-
-
-| **Cocoom Part** | **URL**   | Détails                          |
-| --------------- | --------- | -------------------------------- |
-| Publish         | /-/editor | shortcut to create a publication |
-| Share           | /-/share  | shortcut to create a share       |
-
+| My selection       | /myselection                  | user subscriptions selection                                           |
+| Breaking News      | /breakingnews                 | “Breaking news”                                     |
+| Headlines          | /headlines                    | "Breaking news" headlines                     |
+| a specific channel | /channels/&lt;channel ID&gt;           | all publications of a specific channel (also called thread) |
+| Directory           | /directory                  | full base directory                                           |
+| User profile       | /people/&lt;user ID&gt; | user specific profile                                     |
+| Notifications      | /notifications                | user notifications                               |
+| Mon actions          | /myactivities                | all actions done by user (creation/interactions/bookmarks)     |
+| My settings          | /settings                | user account configuration     |

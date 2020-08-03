@@ -62,13 +62,17 @@ Si vous vous connectez via la web app depuis votre mobile, votre interface Cocoo
 
 Pour aller plus loin, l’équipe Cocoom à développé une PWA (Progressive Web App). Il s’agit d’un application light que vous pouvez installer sur votre téléphone.
 
+::: tip PWA +/-
 ➕ L’avantage c’est que l’application occupe très peu d’espace et n’a pas besoin de mises à jour
+
 ➖ L’inconvénient c’est qu’elle ne peut pas générer de notifications comme les autres.
+:::
 
 Vous avez tout de même un accès direct à votre Cocoom, depuis votre écran d’accueil du téléphone et sans aucune fenêtre de navigation.
 
-⚠️ **une PWA n’est pas accessible depuis l’Appstore ou Google Play. il faut suivre un procédure toute simple, indiquée dans ces guides dans la section “configuration”.**
-
+::: danger ⚠️
+Une PWA n’est pas accessible depuis l’Appstore ou Google Play.
+:::
 
 ![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589107971507_Plan+de+travail+51cocoom-guides-2.png)
 
