@@ -7,14 +7,14 @@ Cocoom is a **Visual Knowledge** base that allows you to share relevant, synthet
 
 ## Tour of the Web App
 
-- ✍️ Publier memos (short and visual knowledge), with an easy-to-use editor.
-- 📌 Consult your knowledge in the interface
-- 🛎 Notify in a personal space and by email.
-- 🎓 Organize all your knowledge and info with #threads and structured tags
-- 👑 Administer all content and users
+- ✍️  Publish memos (short and visual knowledge information) with an easy-to-use editor,
+- 📌  Consult your knowledge information,
+- 🛎  Notify people in their personal space and by email,
+- 🎓  Organize all your knowledge and information with the help of #threads and structured tags,
+- 👑  Administrate all content and users.
 
-If you have several Cocoom platforms, you can go further by connecting the different bases within a "hub".
+If you have several Cocoom knowledge bases, you can go further by connecting the different bases within a "hub".
 
-The interface then allows you to switch from one to the other easily and to create and share thematic feeds.
+The interface then allows you to switch from one to the other easily and to create and share thematic #thread.
 
 To know more about it, please refer to the section [Structure your Cocoom](/getting-started/structure.md) or contact us: [support@cocoom.com](mailto:support@cocoom.com)
