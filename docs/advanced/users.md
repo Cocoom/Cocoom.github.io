@@ -14,7 +14,7 @@ User profiles are configured in the Cocoom administration interface and can be m
 Users profiles will be able to be assigned by default when using auto-provisioning mode.
 :::
 
-|                                                                      | 👀<br/>reader         | ✍️ contribuor | 👑 administrator |
+|                                                                      | 👀<br/>reader         | ✍️ contributor | 👑 administrator |
 | -------------------------------------------------------------------- | --------------------- | ------------- | ---------------- |
 | <h2>Consult</h2>                                                     |                       |               |                  |
 | read publication and sharing                                         | ✅                    | ✅             | ✅                |
