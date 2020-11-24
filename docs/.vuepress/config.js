@@ -101,7 +101,7 @@ module.exports = {
       {
         'ga': 'UA-130889610-4'
       }
-    ],
+    ]/* ,
     [
       'register-components',
       {
@@ -112,7 +112,7 @@ module.exports = {
           }
         ]
       }
-    ]
+    ] */
   ]
 }
 
