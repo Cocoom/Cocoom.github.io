@@ -26,8 +26,7 @@ The browsers list with which Cocoom compatible is:
 - Safari 9+
 - Firefox version 43+
 - Google Chrome version 47+
-- Internet Explorer 11
-- Edge
+- Edge (new version, based on Chromium project)
 - Mobile Chrome (recent version, not strictly determined)
 - Mobile Safari (recent version, not strictly determined)
 - Mobile Edge
