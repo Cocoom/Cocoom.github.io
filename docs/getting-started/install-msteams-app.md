@@ -48,14 +48,10 @@ The procedure is simple, you just have to click on step 2: "**associate my Cocoo
 
 Given the current health crisis, we are committed to respond and activate your account within 12 hours maximum (much less during our opening hours: 08:30-18:30).
 
-Is that all right ? Log in !
+Is that all right ? Sign in !
 
 
 ![](https://paper-attachments.dropbox.com/s_3F33542EA447BA01ECFB61CB22F832B23287CC8CF63B5E2F99B2EF793B54E990_1588948924932_Plan+de+travail+5cocoom-guides_EN.png)
 
 
-
-
-- Go to the Cocoom App for Microsoft Teams User Guide
-
-
+👉 Go to the Cocoom App for Microsoft Teams [User Guide](/guide/msteams-app)

@@ -54,10 +54,7 @@ Compte tenu de la crise sanitaire en cours, nous nous engageons à vous répondr
 
 C’est tout bon ? Connectez-vous !!
 
-
 ![](https://paper-attachments.dropbox.com/s_6CFA4B0A70E3DD7648B2C6010F8EF67FF1372BBCEB214BEC5EF83F31CE7E1280_1588948386172_Plan+de+travail+5cocoom-guides_EN.png)
 
 
-**Passez au guide d’utilisation de l’App Cocoom pour Microsoft Teams**
-
-
+👉 Vous pouvez consulter le [guide d’utilisation](/fr/guide/msteams-app) de l’App Cocoom pour Microsoft Teams

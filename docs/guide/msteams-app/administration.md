@@ -1,4 +1,5 @@
 # Administration
+
 The administration area is only accessible from the personal app, in the left sidebar.
 
 Personal App > Dashboard > Administration
