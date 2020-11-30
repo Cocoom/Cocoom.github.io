@@ -15,7 +15,7 @@ L’application vous permet de relier votre base de savoirs visuels Cocoom dans 
 
 - 📌 **Consulter** vos savoirs en ajoutant des onglets Cocoom dans vos canaux Teams
 
-⇢ [Consulter par équipe](teams-tab) | [Comment consulter vos savoirs](consult) | [Etre notifié](notifications)
+⇢ [Consulter par équipe](teams-tabs) | [Comment consulter vos savoirs](consult) | [Etre notifié](notifications)
 
 - 🛎 **Accéder à** un espace personnel pour suivre son activité et être notifié
 

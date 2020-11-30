@@ -15,7 +15,7 @@ The app allows you to link your Cocoom visual knowledge base in Microsoft Teams 
 
 - 📌 **Access** your knowledge by adding Cocoom tabs in your Teams channels
 
-⇢ [Channel access by team](teams-tab) | [Read your publications](consult) | [Be notified](notifications)
+⇢ [Channel access by team](teams-tabs) | [Read your publications](consult) | [Be notified](notifications)
 
 - 🛎 **Get** a personal space to follow your activity and be notified
 
