@@ -21,7 +21,7 @@ To make our apps communicate to each other accross our 2 cloud suppliers, we rel
 
 ### Between Cocoom DevOps|Support teams and Cocoom infrastructure
 
-- Web communications encrypted by TLS v1.2 (HTTPS).
+- Web communications encrypted by TLS v1.2 & TLS v1.3 (HTTPS).
 - All other levels of communication are encrypted by SSH.
 
 ::: danger DEVOPS
@@ -33,7 +33,7 @@ Access to Cocoom infrastructure can only be possible by :
 
 ### Between Cocoom users (you) and Cocoom infrastructure
 
-- Web communication only, encrypted by TLS v1.2 (HTTPS).
+- Web communication only, encrypted by TLS v1.2 & TLS v1.3 (HTTPS).
 - Up-to-date **A+** level certificate issued by SSL Labs services
 
 ![SSLLabs rating](/img/infra/security_ssllabs-rating.png)
