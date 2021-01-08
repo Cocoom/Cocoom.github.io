@@ -31,6 +31,10 @@ function getSidebarLabels() {
     "advanced": {
       "en": "⚙️ Advanced resources",
       "fr": "⚙️ Info complémentaires"
+    },
+    "faq": {
+      "en": "🪄 FAQ",
+      "fr": "🪄 FAQ"
     }
   };
 };

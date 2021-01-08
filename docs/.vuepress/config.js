@@ -101,18 +101,7 @@ module.exports = {
       {
         'ga': 'UA-130889610-4'
       }
-    ]/* ,
-    [
-      'register-components',
-      {
-        components: [
-          {
-            name: 'Redirect',
-            path: 'Redirect.vue'
-          }
-        ]
-      }
-    ] */
+    ]
   ]
 }
 
@@ -248,6 +237,20 @@ function getAvancedUsage(language) {
   ];
 };
 
+/**
+ * FAQ
+ *
+ * @param {string} language ('fr', ...)
+ */
+function getFAQ(language) {
+  const prefix = (language ? '/' + language : '') + '/faq';
+
+  return [
+    prefix + '/overview',
+    prefix + '/add-video'
+  ];
+};
+
 
 /**
  * Complete sidebar
@@ -257,6 +260,7 @@ function getSidebar(language) {
     getSideBarItem(language, 'overview', getIntroduction(language), true, 1),
     getSideBarItem(language, 'getting-started', getGettingStarted(language), true, 1),
     getSideBarItem(language, 'guide', getGuide(language), true, 0),
-    getSideBarItem(language, 'advanced', getAvancedUsage(language), true, 1)
+    getSideBarItem(language, 'advanced', getAvancedUsage(language), true, 1),
+    getSideBarItem(language, 'faq', getFAQ(language), true, 1)
   ];
 };

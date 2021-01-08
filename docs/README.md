@@ -6,7 +6,9 @@ actionLink: /introduction/
 footer: Copyright © 2020 Cocoom
 ---
 
-<p style="text-align: center;">Resources to get started with Cocoom</p>
+<div style="text-align: center;">
+  <a href="/faq"><h3>⇢ &nbsp;&nbsp;FAQ</h3></a>
+</div>
 
 <div class="features">
   <div class="feature">
