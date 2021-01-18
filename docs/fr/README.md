@@ -24,7 +24,7 @@ footer: Copyright © 2020 Cocoom
   </div>
   <div class="feature">
     <h2>⚙️ + de ressources</h2>
-    <p>Contenu plutôt orienté vers les DSI.</p>
+    <p>Contenu orienté DSI.</p>
     <p style="margin-left: 2em;">👉🏾 <a href="/fr/advanced/" style="margin-left: 5px;">Consulter</a></p>
   </div>
 </div>
