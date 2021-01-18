@@ -233,7 +233,8 @@ function getAvancedUsage(language) {
     prefix + '/users',
     prefix + '/hosting',
     prefix + '/security',
-    prefix + '/privacy'
+    prefix + '/privacy',
+    prefix + '/teams-setup-admin'
   ];
 };
 

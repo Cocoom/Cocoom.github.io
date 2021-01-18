@@ -30,7 +30,7 @@ function getSidebarLabels() {
     },
     "advanced": {
       "en": "⚙️ Advanced resources",
-      "fr": "⚙️ Info complémentaires"
+      "fr": "⚙️ Usages avancés"
     },
     "faq": {
       "en": "🪄 FAQ",
