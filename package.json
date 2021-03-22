@@ -6,12 +6,12 @@
     "vuepress-theme-book": "0.0.5"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.7.1",
-    "@vuepress/plugin-google-analytics": "^1.7.1",
-    "@vuepress/plugin-medium-zoom": "^1.7.1",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2",
     "moment": "^2.29.1",
     "serve": "^11.3.2",
-    "vuepress": "^1.7.1",
+    "vuepress": "^1.8.2",
     "vuepress-plugin-check-md": "0.0.2"
   },
   "scripts": {
