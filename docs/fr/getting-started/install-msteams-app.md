@@ -25,7 +25,7 @@ Une fois l’application Cocoom installée, vous devez créer une base Cocoom, v
 
 ![](/img/fr/getting-started/install-msteams-app_create-base.png)
 
-******⚠ Pour que votre base soit directement associée à votre Microsoft Teams, vous devez la créer depuis la page de l’application Cocoom de Microsoft Teams.**
+**⚠ Pour que votre base soit directement associée à votre Microsoft Teams, vous devez la créer depuis la page de l’application Cocoom de Microsoft Teams.**
 
 Cliquez sur le bouton étape 1 : “**créer votre base Cocoom**”  dans votre application personnelle Cocoom.
 
@@ -42,7 +42,7 @@ a. Cocoom vous demande l’autorisation de connexion avec vos identifiants Offic
 Une fois votre cette procédure terminée, vous pouvez fermer la fenêtre, votre base est créée et reliée à votre Microsoft Teams.
 
 
-## 3. Relier vos comptes Cocoom et Microsoft Teams
+## 3. Relier votre Cocoom à Microsoft Teams
 
 Si vous aviez déjà une base Cocoom existante avant d’installer l’application Cocoom au sein de Microsoft Teams.
 

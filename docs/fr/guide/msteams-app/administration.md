@@ -71,7 +71,7 @@ Les tags vous permettent de rajouter un niveau de spécification aux publication
 
 Il est très important de bien penser sa structure de tags et de la faire évoluer régulièrement car elle permet de filtrer l’information dans toutes les vues Cocoom.
 
-******⚠️ Pour ajouter un tag, entrez le mot ou la suite de mots et tapez sur “entrer” pour valider l’ajout. N’oubliez pas d’enregistrer toutes vos modifications.**
+**⚠️ Pour ajouter un tag, entrez le mot ou la suite de mots et tapez sur “entrer” pour valider l’ajout. N’oubliez pas d’enregistrer toutes vos modifications.**
 
 
 ![](https://paper-attachments.dropbox.com/s_FBC5B0C054AD4D43082A0E2DC4412D69AB83598AFCFBA6C61B0013FF268096F6_1589101944987_Plan+de+travail+43cocoom-guides-2.png)

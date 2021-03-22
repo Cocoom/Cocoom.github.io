@@ -1,6 +1,6 @@
 # Présentation
 
-Cocoom est une base de  **Visual Knowledge***  qui permet de partager des informations pertinentes, synthétiques et attractives au sein d’une équipe, d’une organisation, d’une communauté.
+Cocoom est une base de  **Visual Knowledge**  qui permet de partager des informations pertinentes, synthétiques et attractives au sein d’une équipe, d’une organisation, d’une communauté.
 
 **La Web App Cocoom est l’interface en ligne qui vous permet de la gérer.**
 

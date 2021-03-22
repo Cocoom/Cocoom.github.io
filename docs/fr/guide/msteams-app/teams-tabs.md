@@ -8,7 +8,7 @@ La grande force de Cocoom est de vous permettre d’afficher vos savoirs directe
 Vous avez un accès direct à vos savoirs utiles là où vous travaillez.
 ex : une équipe marketing ajoute un onglet  #⚡️Marketing  dans son canal général et peut ainsi alimenter, suivre et consulter tous ces savoirs sans sortir de l’équipe.
 
-******Partager des savoirs entre deux équipes**
+**Partager des savoirs entre deux équipes**
 Vous pouvez partager un fil thématique entre plusieurs équipes, cela vous permet de créer des passerelles de savoirs entre deux ou plusieurs équipes séparées.
 ex : l’équipe sales ajoute un onglet #⚡️marketing et peut consulter les dernieres mises à jour sur les productions de l’équipe marketing
 
@@ -39,7 +39,7 @@ Pour ajouter un fil thématique Cocoom dans un canal, vous devez :
 
 ## Fonctionnalités de consultation
 
-******Ce que vous pouvez faire dans un onglet Cocoom :**
+**Ce que vous pouvez faire dans un onglet Cocoom :**
 
 📌 **afficher le contenu d’un #fil thématique** :
 ⚠️ un seul par onglet, mais vous pouvez en ajouter plusieurs dans un même canal

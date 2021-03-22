@@ -1,4 +1,5 @@
 # Consulter
+
 Cette section aborde en détails toutes les subtilités de la consultation et des interactions des publications et des partages.
 
 
@@ -14,6 +15,7 @@ Un fil thématique est caractérisé par :
 - description (optionnel)
 - couleur
 - visuel (optionnel)
+
 ![](https://paper-attachments.dropbox.com/s_1558E40395E041DAC8C7C3068559BA66FEBF88F7C0E3F2B03B602A855831ED47_1589015633337_Plan+de+travail+41cocoom-guides_EN.png)
 
 
@@ -85,7 +87,6 @@ Comme les publications classique, vous pouvez cliquer sur la carte pour afficher
 - 💬  voir le nombre de commentaires : aucun logo ne s’affiche si ils sont vides
 - 👤 cliquer sur l’auteur pour avoir plus de détails
 - ✅ voter si la carte le propose (evenement, instantanés)
-
 
 ![](https://paper-attachments.dropbox.com/s_1558E40395E041DAC8C7C3068559BA66FEBF88F7C0E3F2B03B602A855831ED47_1589017324527_Plan+de+travail+44cocoom-guides_EN.png)
 
