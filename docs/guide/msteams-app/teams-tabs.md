@@ -1,4 +1,4 @@
-# Tabs in teams
+# Tabs in Teams
 
 The great strength of Cocoom is to allow you to display your knowledge directly within your teams in dedicated tabs.
 

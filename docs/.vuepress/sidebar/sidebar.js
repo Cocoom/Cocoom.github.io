@@ -35,6 +35,54 @@ function getSidebarLabels() {
     "faq": {
       "en": "🪄 FAQ",
       "fr": "🪄 FAQ"
+    },
+    "first-connection": {
+      "en": "🪄 First connection",
+      "fr": "🪄 Première connexion"
+    },
+    "personal-app": {
+      "en": "Personal App",
+      "fr": "App personnelle"
+    },
+    "teams-tabs": {
+      "en": "Tabs in Teams",
+      "fr": "Onglets d’équipe"
+    },
+    "consult": {
+      "en": "Consult",
+      "fr": "Consulter"
+    },
+    "publish": {
+      "en": "Publish",
+      "fr": "Publier"
+    },
+    "administration": {
+      "en": "Administration",
+      "fr": "Administration"
+    },
+    "notifications": {
+      "en": "Notifier",
+      "fr": "Notify"
+    },
+    "settings": {
+      "en": "Settings",
+      "fr": "Paramètres"
+    },
+    "actions": {
+      "en": "Actions",
+      "fr": "Actions"
+    },
+    "interact": {
+      "en": "Interact",
+      "fr": "Interagir"
+    },
+    "directory": {
+      "en": "Directory",
+      "fr": "Annuaire"
+    },
+    "search": {
+      "en": "Search",
+      "fr": "Rechercher"
     }
   };
 };
@@ -47,7 +95,7 @@ function getSidebarLabels() {
  * @param {string} language ('en', 'fr', ...)
  */
 function getLabel(id, language) {
-  return getSidebarLabels()[id][!language ? 'en' : language];
+  return getSidebarLabels()[id] ? getSidebarLabels()[id][!language ? 'en' : language] : null;
 }
 
 
@@ -62,7 +110,7 @@ function getLabel(id, language) {
  */
 function getSideBarItem(language, titleId, children = null, collapsable = true, depth = 1) {
   return {
-    title: getLabel(titleId, language),
+    title: getLabel(titleId, language) ? getLabel(titleId, language): null,
     collapsable: collapsable,
     sidebarDepth: depth,
     children: children

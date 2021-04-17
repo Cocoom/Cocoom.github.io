@@ -1,4 +1,5 @@
 # Publier
+
 Pour rédiger une publication vous devez posséder un profil “contributeur” ou “administrateur”.
 
 
@@ -10,8 +11,8 @@ Chacun de ces formats possède plusieurs variantes.
 
 1. ✏️ **Publication**  : c’est un format long et complet qui vous permet de mettre de structurer de nombreuses informations.
 
-Les publications possèdent **5 bases différente.** 
-Ces variantes vont avoir un impact sur la carte (résumé visible dans le fil thématique) et sur le haut de la publication dans le header. 
+Les publications possèdent **5 bases différente.**
+Ces variantes vont avoir un impact sur la carte (résumé visible dans le fil thématique) et sur le haut de la publication dans le header.
 
 
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589049166038_Plan+de+travail+45cocoom-guides_EN.png)
@@ -42,9 +43,9 @@ Au sein de l’application Microsoft teams, Cocoom vous permet d’accéder à l
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589052582814_Plan+de+travail+33cocoom-guides_EN.png)
 
 
-**Choisir un modèle** 
+**Choisir un modèle**
 
-Cliquer sur “✏️ rédiger” dans la vue de votre choix puis sélectionnez un modèle 
+Cliquer sur “✏️ rédiger” dans la vue de votre choix puis sélectionnez un modèle
 ⚠️ vous ne pouvez pas changer de modèle au cours de la rédaction.
 
 
@@ -61,7 +62,7 @@ Commencez par sélectionner le fil thématique auquel vous souhaitez rattacher l
 
 ## Éditer le contenu
 
-**Header** 
+**Header**
 Le “header”, c’est à dire la partie haute de la publication ne peut pas être supprimée, elle est automatiquement mise en forme en fonction de la base de publication que vous avez sélectionné : basic, portrait, citation, document, sondage.
 
 ⚠️ **si vous souhaitez changer le format du “header” vous devrez recommencer depuis le début en sélectionnant un nouveau modèle.**
@@ -73,16 +74,16 @@ Vous pouvez, en revanche, modifier l’image de fond et les titres / sous titres
 
 Le bloc coloré avec des icônes sous le header n’est pas obligatoire, vous pouvez le retirer ou le modifier à loisirs.
 
-Nous vous conseillons cependant de la conserver et d’en faire un usage systématique dans toutes vos publications pour faciliter la lecture. 
+Nous vous conseillons cependant de la conserver et d’en faire un usage systématique dans toutes vos publications pour faciliter la lecture.
 
 Utilisez toujours les mêmes références pour permettre de données des indications précieuses sur le contenu du mémo.
 
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589060641087_Plan+de+travail+35cocoom-guides-2.png)
 
 
-**Arranger les blocs** 
+**Arranger les blocs**
 
-Les publications Cocoom sont constituées de différents blocs qui peuvent être déplacés, modifiés, dupliqués ou supprimés. 
+Les publications Cocoom sont constituées de différents blocs qui peuvent être déplacés, modifiés, dupliqués ou supprimés.
 
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589060658055_Plan+de+travail+37cocoom-guides-2.png)
 
@@ -105,10 +106,10 @@ Si les blocs contenus ne vous conviennent pas ou ne sont pas suffisants, vous po
 - document
 - lien
 - sondage
-- infographie 
+- infographie
 - tableau (tableau à copié collé depuis l’exterieur)
 
-Le contenu des blocs peut être modifié en fonction de vos besoins. 
+Le contenu des blocs peut être modifié en fonction de vos besoins.
 
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589060740933_Plan+de+travail+36cocoom-guides-2.png)
 
@@ -116,14 +117,14 @@ Le contenu des blocs peut être modifié en fonction de vos besoins.
 
 💾 Vous pouvez régulièrement cliquer sur “enregistrer ma publication” pour la sauvegarder dans vos publication ( Personal App > Tableau de bord > Mes publications)
 
-Lorsque la publication est prête à être publiée ou à être enregistrée en tant que modèle, cliquer sur “prévisualiser”. Dans cet espace, vous ne pouvez plus éditer mais vous avez un aperçu complet de votre publication, sous différents formats et les boutons d’actions : “créer un modèles” ou “publier” 
+Lorsque la publication est prête à être publiée ou à être enregistrée en tant que modèle, cliquer sur “prévisualiser”. Dans cet espace, vous ne pouvez plus éditer mais vous avez un aperçu complet de votre publication, sous différents formats et les boutons d’actions : “créer un modèles” ou “publier”
 
 
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589058228479_Plan+de+travail+53cocoom-guides_EN.png)
 
 
 
-## Créer un partage 
+## Créer un partage
 
 Au sein de l’application Microsoft teams, Cocoom vous permet d’accéder à la publication à plusieurs endroits :
 
@@ -132,7 +133,7 @@ Au sein de l’application Microsoft teams, Cocoom vous permet d’accéder à l
 
 **Sélectionnez**  📣  **Partager** = Partage
 
-**choisir un format de partage** 
+**choisir un format de partage**
 
 ![](https://paper-attachments.dropbox.com/s_98A78F08C1D5C044185E280B78E5E1C876CD2564461C7FDC803B86EB9093B8AA_1589056115159_Plan+de+travail+51cocoom-guides_EN.png)
 
@@ -156,7 +157,7 @@ Pour modifier une information cliquez sur “prévisualiser”, sinon cliquez su
 **⚠️ Une fois publié, vous ne pouvez pas modifier un partage, vous pouvez uniquement le supprimer et recommencer.**
 
 
-## Modifier, dépublier, supprimer 
+## Modifier, dépublier, supprimer
 
 **Au sein d’une publication ou d’un partage**
 Toutes vos publications et partages sont éditables directement depuis la consulation. Cliquez sur les trois petits points en haut à droite de votre publication ou de votre partage pour afficher les options disponibles.

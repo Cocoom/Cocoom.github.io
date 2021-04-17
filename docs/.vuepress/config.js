@@ -53,6 +53,7 @@ module.exports = {
             buttonText: "Rafraîchir"
           }
         },
+
         nav: require('./nav/fr'),
         sidebar: {
           '/fr/': getSidebar('fr')
@@ -160,6 +161,16 @@ function getGuideMSTeamsApp_Subdirectory(parentPath, language, collapsable = fal
       prefix + '/publish',
       prefix + '/administration',
       prefix + '/notifications'
+      /*
+      getSideBarItem(language, 'first-connection', [prefix + '/first-connection'], collapsable, depth),
+      getSideBarItem(language, 'personal-app', [prefix + '/personal-app'], collapsable, depth),
+
+      getSideBarItem(language, 'teams-tabs', [prefix + '/teams-tabs'], collapsable, depth),
+      getSideBarItem(language, 'consult', [prefix + '/consult'], collapsable, depth),
+      getSideBarItem(language, 'publish', [prefix + '/publish'], collapsable, depth),
+      getSideBarItem(language, 'administration', [prefix + '/administration'], collapsable, depth),
+      getSideBarItem(language, 'notifications', [prefix + '/notifications'], collapsable, depth),
+      */
     ],
     collapsable, depth
   );
@@ -213,8 +224,8 @@ function getGuide(language) {
 
   return [
     prefix + '/overview',
-    getGuideMSTeamsApp_Subdirectory(prefix, language, false, 0),
-    getGuideWebApp_Subdirectory(prefix, language, false, 0)
+    getGuideMSTeamsApp_Subdirectory(prefix, language, true, 2),
+    getGuideWebApp_Subdirectory(prefix, language, true, 2)
   ];
 };
 
