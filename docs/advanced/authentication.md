@@ -18,9 +18,7 @@ We ensure the chosen password cannot be weak (specific algorithm is applied to p
 Otherwise the user account cannot be fully completed & the user won't be able to use Cocoom.
 :::
 
-The password is hashed before being transferred from Cocoom client to Cocoom servers (password is never sent in clear text over the network).
-
-Moreover, in this authentication mode, Cocoom strongly encryots the hashed passwords before storing them for further usages.
+Cocoom hash then strongly encrypts the passwords before storing them for further usages.
 
 
 ### External Identity Provider authentication
