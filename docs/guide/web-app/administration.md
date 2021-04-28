@@ -39,7 +39,7 @@ For each of them you have the possibility to :
 📌 If you need to create a publication involving several users, simply give them an "administrator" profile so that they can have sufficient rights to edit the same publication together.
 :::
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.21.32.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.21.32.png)
 
 
 

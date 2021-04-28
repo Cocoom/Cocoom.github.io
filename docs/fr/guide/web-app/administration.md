@@ -40,7 +40,7 @@ Pour chacun d’entre eux vous avez la possibilité de le :
 📌 Si vous avez besoin de créer une publication en impliquant plusieurs utilisateurs, il vous suffit de leur donner un profil “administrateur” pour qu’ils puissent avoir les droits suffisants pour éditer ensemble la même publication.
 :::
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.21.32.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.21.32.png)
 
 
 

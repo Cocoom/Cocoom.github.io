@@ -16,4 +16,4 @@ Cliquez sur votre photo de profil en haut à droite de votre écran puis cliquez
 -  Vos bookmarks
 
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Hnet.com-image.gif)
+![](https://cocoom.com/wp-content/uploads/2020/04/Hnet.com-image.gif)

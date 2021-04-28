@@ -3,7 +3,7 @@
 The directory is the register of the users of a Cocoom platform. It provides access to all the profiles of the organization’s employees.
 
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.13.31.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-14.13.31.png)
 
 
 
@@ -15,7 +15,7 @@ The directory is the register of the users of a Cocoom platform. It provides acc
 
 
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Directory.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Directory.png)
 
 
 

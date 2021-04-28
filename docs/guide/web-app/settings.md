@@ -8,13 +8,13 @@ In “**My Settings**” you can :
 
 ## Your profile
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Settings.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Settings.png)
 
 
  Here you will be able to modify many items:
 
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-13.54.22.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-13.54.22.png)
 
 
 **You can change :**
@@ -39,14 +39,14 @@ Most often it is during your first steps on Cocoom that you are led to fill out 
 
 
 
-##  Change your password
+## Change your password
 
 
 This is only possible if you connect to Cocoom with a login: email / password. If you are in SSO this option is not proposed.
 
 
 
-##  Manage your subscriptions
+## Manage your subscriptions
 
 
 You can subscribe to the #channel that interest you and unsubscribe from those that do not.
@@ -54,7 +54,7 @@ You can subscribe to the #channel that interest you and unsubscribe from those t
 
 
 
-![](https://pws.cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-11.21.16.png)
+![](https://cocoom.com/wp-content/uploads/2020/04/Capture-d%E2%80%99%C3%A9cran-2020-05-07-%C3%A0-11.21.16.png)
 
 
 
