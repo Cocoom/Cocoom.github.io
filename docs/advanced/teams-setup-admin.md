@@ -12,9 +12,11 @@ To manage Apps, there is a dedicated menu in the Admin center: [Teams apps](http
 
 There are 3 main parts in this menu section:
 
-1. Manage apps: allows you to give an overview of available Apps, which one you blocked or allowed to be installed & each app properties,
-2. Permission policies: which app is allowed to be installed,
-3. Setup policies: which apps are pre-installed, which one are pinned & even if you let users pin their apps or upload custom apps by their own.
+1. [Manage apps](#manage-apps): allows you to give an overview of available Apps, which one you blocked or allowed to be installed & each app properties,
+
+2. [Permission policies](#permission-policies): which app is allowed to be installed,
+
+3. [Setup policies](#setup-policies): which apps are pre-installed, which one are pinned & even if you let users pin their apps or upload custom apps by their own.
 
 
 ## Manage apps
@@ -30,7 +32,7 @@ From here, you can check that Cocoom is listed as part of available applications
 
 ## Permission policies
 
-From there, you can define which policy to apply to 3 categories of apps:
+From there, you can define which permissions policy to apply to 3 categories of apps:
 
 1. Microsoft apps (ie: Power BI)
 2. Third-party apps (ie: Cocoom)
@@ -38,7 +40,7 @@ From there, you can define which policy to apply to 3 categories of apps:
 
 ⇢ More info : [Microsoft doc link](https://docs.microsoft.com/en-us/microsoftteams/teams-app-permission-policies)
 
-Shown in the image below, there’s an example of customized policy defined where:
+Shown in the image below, there’s an example of customized permissions policy defined where:
 
 - Only Microsoft Power Apps & Power BI apps are blocked (all other Microsoft apps are allowed)
 - Cocoom & Trello are the only third-party apps allowed to be installed
