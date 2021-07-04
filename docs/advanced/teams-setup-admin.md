@@ -1,4 +1,4 @@
-# Teams administrator & Cocoom
+# 🚀 Teams administrator & Cocoom
 
 As a Teams administrator, you can fully manage Teams applications that can enhanced Teams behavior or content.
 

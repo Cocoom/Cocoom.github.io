@@ -28,3 +28,7 @@ You'll find here information about
 **🔐 Security**
 
 [Read](./security.md)
+
+**📫 Emails customization**
+
+[Read](./customization-emails.md)

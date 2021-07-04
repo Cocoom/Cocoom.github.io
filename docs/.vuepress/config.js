@@ -245,7 +245,8 @@ function getAvancedUsage(language) {
     prefix + '/hosting',
     prefix + '/security',
     prefix + '/privacy',
-    prefix + '/teams-setup-admin'
+    prefix + '/teams-setup-admin',
+    prefix + '/customization-emails'
   ];
 };
 
