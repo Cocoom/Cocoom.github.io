@@ -1,4 +1,4 @@
-# ⚖️ Privacy & RGPD
+# ⚖️ Privacy & GDPR
 
 Find our privacy policy on [cocoom.com](https://cocoom.com/privacy-policy/?lang=en)
 
@@ -7,7 +7,7 @@ Cocoom's privacy policy explains how we collect your personal data, in the stric
 
 ## 📚 Definition and nature of personal data
 
-When you use the services accessible from our website, https://cocoom.com/ or a dedicated Platform sub-domain https://<DOMAIN.cocoom.com> or Cocoom App in Microsoft Teams, hereinafter referred to as "Cocoom", we may ask you to provide us with personal data. By "personal data", we mean any data that allows a person to be identified, such as your surname, first name, photo or e-mail address, as well as any other information you choose to provide us with.
+When you use the services accessible from our website, [cocoom.com](https://cocoom.com), or a dedicated Platform sub-domain https://<DOMAIN.cocoom.com> or Cocoom App in Microsoft Teams, hereinafter referred to as "Cocoom", we may ask you to provide us with personal data. By "personal data", we mean any data that allows a person to be identified, such as your surname, first name, photo or e-mail address, as well as any other information you choose to provide us with.
 
 
 ## 🔐 Use of your personal data
@@ -44,7 +44,7 @@ When using the Platform, Cocoom is also likely to collect the following personal
 The sole purpose of processing the data collected is to identify the User and to ensure the proper functioning and use of the Platform by Users.
 Cocoom undertakes to collect personal data only for the precise, explicit and legitimate purposes mentioned above and not to process them in a manner incompatible with these purposes.
 
-This data may be transmitted to a third party company responsible for hosting this data, which then acts as a subcontractor. Under no circumstances will they be transmitted to other third parties. Personal data is not likely to be transferred outside the European Union for data storage and in any event, it is not transferred to a country considered by the CNIL as not offering an adequate level of protection.
+This data may be transmitted to a third party company responsible for hosting this data, which then acts as a subcontractor. Under no circumstances will they be transmitted to other third parties. Personal data is not likely to be transferred outside the European Union for data storage and in any event, it is not transferred to a country considered by the [CNIL](https://www.cnil.fr/en/home) as not offering an adequate level of protection.
 The Subcontractor is bound to respect the exercise of the data subject's right in the same way as the Supplier.
 
 These personal data concerning the User and the Customer's Administrative and Technical Staff are subject to computer processing and will not be kept for longer than is strictly necessary for the stated purposes and to protect Cocoom's legitimate interests.
