@@ -2,22 +2,23 @@
 
 ## Internal access restriction
 
-Only authorized personnel (designated DevOps) has access to Cocoom infrastructure, preventing, at best, potential social engineering hacking.
+Only authorized personnel (designated DevOps) have access to Cocoom infrastructure, preventing potential social engineering hacking.
 
-Our security policy includes ongoing sensitivation of technical staff to data and system security (Devs, DevOps as well as Customer Support team).
+These authorizations are revoked as soon as the collaborators don’t need these privileges anymore.
 
+Our security policy includes ongoing awareness of technical staff to data and system security (Devs, DevOps as well as Customer Support team).
 
-## Data traffic encryption
+We have complete separation between production and non-production environments.
 
-All data transmissions between Cocoom, our users and our technical infrastructure are encrypted.
+## Data in transit
+
+All data transmissions performed between Cocoom DevOps, our users, third party apps and our technical infrastructure are fully encrypted.
 
 ![Secured data transmission](/img/infra/infra_data-security.png)
 
+Our servers inter-operate exclusively in a private network (VLAN).
 
-Our servers inter-operate exclusively in a private network (VLAN) inside each cloud provider.
-
-To make our apps communicate to each other accross our 2 cloud suppliers, we rely on HTTPS protocol & API Key dedicated to each App.
-
+To make our apps publicly communicate to each other, we rely on HTTPS protocol.
 
 ### Between Cocoom DevOps|Support teams and Cocoom infrastructure
 
@@ -25,10 +26,11 @@ To make our apps communicate to each other accross our 2 cloud suppliers, we rel
 - All other levels of communication are encrypted by SSH.
 
 ::: danger DEVOPS
-Access to Cocoom infrastructure can only be possible by :
+Cocoom infrastructure access can only be granted by:
 
-- a two-factor authentication authorizing access to Cocoom's infrastructure management services,
-- an asymetric key authentication (public/private) where only the keys of the few duly authorized DevOps are installed inside Cocoom infrastructure.
+- a two-factor authentication giving access to Cocoom infrastructure management services,
+- an asymmetric key authentication (public/private) where only the keys of few duly authorized DevOps are set inside Cocoom infrastructure.
+
 :::
 
 ### Between Cocoom users (you) and Cocoom infrastructure
@@ -42,7 +44,6 @@ Access to Cocoom infrastructure can only be possible by :
 You can test it by yourself by clicking [HERE](https://www.ssllabs.com/ssltest/analyze.html?d=acme.cocoom.com)
 :::
 
-
 ## Software
 
 All data stored in the user's browser is encrypted or encoded according to its level of sensitivity.
@@ -50,28 +51,25 @@ All data stored in the user's browser is encrypted or encoded according to its l
 - The principle of sending the minimum amount of useful information to customers is ensured.
 - The principle of retrieving the minimum amount of information useful for the proper functioning of Cocoom service is ensured.
 
-
 ## XSS (Code Injection Security System)
 
 Cocoom URLs as well as data transmitted via web forms are filtered to prevent any injection of malicious code.
 
-Cocoom owns a unique gateway, to access its services, embedding a layer of security for received data.
+Cocoom owns a unique gateway, to access its services, embedding a layer of security to handle data in transit.
 
-There's no way to bypass this security layer to get access to your data.
+There's no way to bypass this security layer to get access to your data from Cocoom.
 
 ::: warning CONTINOUS TRAINING
 We keep training our technical team, stick to best practices in order to avoid XSS attacks.
 :::
 
-
 ## Incident alerts
 
 We use internal tools helping us to automatically monitor our infrastructure.
 
-We use a web tool, publicly available, for automating the reporting of technical incidents and let you know an up-to-date Cocoom status : [status page](https://status.cocoom.com)
+We also use a web tool to publicly communicate an up to date Cocoom solution status: [status page](https://status.cocoom.com)
 
 Feedbacks are also sent manually, by email, to our customers CIO contacts, if applicable.
-
 
 ## Insurance
 

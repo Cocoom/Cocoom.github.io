@@ -8,7 +8,6 @@
 
 - Internet: the user's workstation must have Internet access.
 
-
 ## Software
 
 Cocoom requires the use of either a web browser to be used as a standalone application, a dedicated desktop application or Microsoft Teams when using Cocoom in Teams.
@@ -39,7 +38,6 @@ We also have a dedicated Cocoom standalone desktop application.
 
 - [Windows](https://static.cocoom.com/desktopapp/Cocoom.exe) : for Windows 7 & Windows 10
 - [Mac](https://static.cocoom.com/desktopapp/Cocoom.dmg) (pkg signature in progress...) : for Mac OS X 10.10+
-
 
 ## Domains
 
@@ -88,7 +86,7 @@ To efficiently reach their goals, these emails should not be treated as spam by 
 ::: tip NOTE
 Cocoom app sends the minimum number of emails to its users, tending to lower, as much as possible, the infobesity.
 
-These emails are sent to keep your team mates aware of what's interesting to know about your own knownledge base(s) usage.
+These emails are sent to keep your team mates aware of what's interesting to know about your own knowledge base(s) usage.
 :::
 
 ## Bandwidth usage (excluding videos)
@@ -103,8 +101,7 @@ Per user, in average, Cocoom requires, during the very first use:
 - Between ~3Mb and ~13Mb to access the "breaking news" page, depending on the content produced by the collaborators
 - Between ~300Kb and ~3Mb to display a publication (weight varies according to the content of the publication)
 
-Once the very first access is made by your collaborators, the download delta (bandwidth requirement) is drastically reduced due to Cocoom's native use of web browser resource caches (on desktop, smartphone or tablet).
-
+Once the very first access is made by your collaborators, the downloaded data delta (bandwidth requirement) is drastically reduced due to Cocoom's native use of web browser resource caches (on desktop, smartphone or tablet).
 
 ## Accessibility
 
