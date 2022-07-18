@@ -117,6 +117,7 @@ export default {
   },
 
   mounted () {
+    /*
     function inIframe () {
       if (window) {
         try {
@@ -128,12 +129,13 @@ export default {
         return false;
       }
     }
+    */
 
     if (window && window.location) {
       const urlParams = new URLSearchParams(window.location.search);
       const noNavbarQueryParam = urlParams.get('no-navbar');
 
-      if (inIframe() || (noNavbarQueryParam !== null && noNavbarQueryParam !== undefined && ((noNavbarQueryParam === '') || (noNavbarQueryParam === 'true')))) {
+      if (/*inIframe() || */(noNavbarQueryParam !== null && noNavbarQueryParam !== undefined && ((noNavbarQueryParam === '') || (noNavbarQueryParam === 'true')))) {
         this.isNavBarDisplayed = false;
       } else {
         this.isNavBarDisplayed = !!this.shouldShowNavbar;

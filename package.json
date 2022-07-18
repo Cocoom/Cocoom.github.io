@@ -1,18 +1,18 @@
 {
   "name": "cocoom-faq",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "",
   "dependencies": {
-    "vuepress-theme-book": "0.0.5"
+    "vuepress-theme-book": "0.0.9"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.8.2",
-    "@vuepress/plugin-google-analytics": "^1.8.2",
-    "@vuepress/plugin-medium-zoom": "^1.8.2",
-    "glob-parent": "^6.0.0",
-    "moment": "^2.29.1",
-    "serve": "^12.0.0",
-    "vuepress": "^1.8.2",
+    "@vuepress/plugin-back-to-top": "^1.9.7",
+    "@vuepress/plugin-google-analytics": "^1.9.7",
+    "@vuepress/plugin-medium-zoom": "^1.9.7",
+    "glob-parent": "^6.0.2",
+    "moment": "^2.29.4",
+    "serve": "^14.0.1",
+    "vuepress": "^1.9.7",
     "vuepress-plugin-check-md": "0.0.2"
   },
   "scripts": {
