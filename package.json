@@ -1,6 +1,6 @@
 {
   "name": "cocoom-faq",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "",
   "dependencies": {
     "vuepress-theme-book": "0.0.9"
