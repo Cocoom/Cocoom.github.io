@@ -34,8 +34,7 @@ Nous sommes convaincus que la technologie seule ne suffit pas à améliorer dura
 ## Nos coordonnées
 
 - site web Cocoom : [https://cocoom.com](https://cocoom.com)
-- site formation : [https://academy.cocoom.com](https://academy.cocoom.com)
-- mail de contact : <contact@cocoom.com>
-- mail questions commerciales : <sales@cocoom.com>
-- mail support : <support@cocoom.com>
-
+- mail de contact : <support@cocoom.com>
+- pour des questions commerciales : <sales@cocoom.com>
+- pour prendre RdV pour une démo : [réserver un créneau](https://calendly.com/cocoom/20min)
+- pour contacter notre support : <support@cocoom.com>

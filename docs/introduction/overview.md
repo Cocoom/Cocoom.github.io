@@ -34,8 +34,7 @@ We are convinced that technology alone is not enough to sustainably improve coll
 ## Our contact details
 
 - Cocoom website: [https://cocoom.com](https://cocoom.com?lang=en)
-- training site: [https://academy.cocoom.com (in french)](https://academy.cocoom.com)
-- general purpose e-mail: <contact@cocoom.com>
-- e-mail for sales purposes: <sales@cocoom.com>
-- e-mail to contact our support: <support@cocoom.com>
-
+- contact email: <support@cocoom.com>
+- for sales-related questions: <sales@cocoom.com>
+- to get an appointement for a demo: [book a 20 minutes slot](https://calendly.com/cocoom/20min)
+- to contact our support: <support@cocoom.com>
