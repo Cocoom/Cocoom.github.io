@@ -70,8 +70,8 @@ Pour aller plus loin, l’équipe Cocoom à développé une PWA (Progressive Web
 
 Vous avez tout de même un accès direct à votre Cocoom, depuis votre écran d’accueil du téléphone et sans aucune fenêtre de navigation.
 
-::: danger ⚠️
-Une PWA n’est pas accessible depuis l’Appstore ou Google Play.
+::: tip INSTALLATION | HOW TO
+[PROCEDURE (en anglais)](https://mobilesyrup.com/2020/05/24/how-install-progressive-web-app-pwa-android-ios-pc-mac/)
 :::
 
 ![](https://paper-attachments.dropbox.com/s_9C6F80C9915FD694935202043906B947828EED1A9F8980B7AC5630C309BB899C_1589107971507_Plan+de+travail+51cocoom-guides-2.png)
