@@ -6,26 +6,38 @@ As a Cocoom administrator, you can choose the team channel in which notification
 
 It's a 2 steps configuration:
 
-- Webhook creation from chosen Microsoft Teams team channel
-- Cocoom thread configuration with this webhook
+1. Webhook creation from chosen Microsoft Teams team channel
+2. Cocoom channel configuration using this very webhook
 
-## Teams webhook creation
+## 1. Microsoft Teams webhook creation
 
-- Go to a Teams channel, click on « … » icon and select « Connectors ».
-- In the displayed list, choose « Incoming Webhook ».
-- Choose a name for this connector. « Cocoom », for example.
-- Add a « Cocoom » icon (links to the icon you can use: [ICON.png](https://help.cocoom.com/img/cocoom-icon.png))
-- Then click on « Create ».
-- A URL is then generated and displayed in the form. Copy it.
+1.1. Go to the MSTeams channel you want to be notified from, click on « … » icon and select « Connectors ».
+
+1.2. In the displayed list, choose « Incoming Webhook ».
+
+1.3. Choose a name for this connector : « Cocoom ».
+
+1.4. Add the « Cocoom » icon (links to the icon you can use: [ICON.png](https://help.cocoom.com/img/cocoom-icon.png))
+
+1.5. Then click on « Create ».
+
+1.6. A URL is then generated and displayed in the form. Copy it.
+
+![](/img/en/guide/msteams-app/teams-connector-setup.png)
 
 
-## Configure Cocoom thread
+## 2. Configure Cocoom channel
 
-In Cocom administration side, choose « Channel » menu item.
+2.1. In Cocom administration side, choose « Channel » menu item.
 
-- Click on « Update » action for thread of you choice.
-- Scroll down to « Tools integration » part
-- Paste the « incomong Webhook » link in "Webhook link" field. You can add a comment to know which represents this link (for example, your Microsoft Teams team name + the team channel)
-- Click on « Add ».
+2.2. Click on « Update » action for channel of you choice.
 
-The association is now complete.
+2.3. Scroll down to « Tools integration » part
+
+2.4. Paste the « incomong Webhook » link in "Webhook link" field. You can add a comment to better know what represents this association (for example, your Microsoft Teams team name + the team channel)
+
+2.5. Click on « Add ».
+
+The association is now live.
+
+![](/img/en/guide/msteams-app/cocoomchannel-teamschannel-association.png)
