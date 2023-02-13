@@ -12,7 +12,7 @@ Each of these formats has several variants.
 1. ✏️ **publication** : this is a long and complete format that allows you to structure a lot of information.
 
 The publications have 5 different bases.
-These variants will have an impact on the map (summary visible in the thematic thread) and on the top of the publication in the header.
+These variants will have an impact on the map (summary visible in the thematic channel) and on the top of the publication in the header.
 
 
 ![](https://paper-attachments.dropbox.com/s_FD54F733FF3B406BE1B2AF18017B38E8E6AE6D58DDB5BB39B0FC5BDD453F2A07_1589061000875_Plan+de+travail+45cocoom-guides_EN.png)
@@ -36,7 +36,7 @@ The shares have 3 bases, each with several variants:
 
 Within the Microsoft teams application, Cocoom allows you to access the publication in several places :
 
-- on the view of a thread in a team tab
+- on the view of a channel in a team tab
 - in the personal app: my knowledge base and my activity
 
 Select ✏️ **Writing** = Publication
@@ -53,9 +53,9 @@ Click on "✏️ write" in the view of your choice then select a model
 
 
 
-## Thread and tag selection
+## Channel and tag selection
 
-Start by selecting the topic thread to which you want to attach the publication and add tags if necessary.
+Start by selecting the topic channel to which you want to attach the publication and add tags if necessary.
 
 ![](https://paper-attachments.dropbox.com/s_FD54F733FF3B406BE1B2AF18017B38E8E6AE6D58DDB5BB39B0FC5BDD453F2A07_1589061232926_Plan+de+travail+49cocoom-guides_EN.png)
 
@@ -132,7 +132,7 @@ When the publication is ready to be published or saved as a template, click on "
 
 Within the Microsoft teams application, Cocoom allows you to access the publication in several places :
 
-- on the view of a thread in a team tab
+- on the view of a channel in a team tab
 - in the personal app: my knowledge base and my activity
 
 **Select** 📣 **Share** = Sharing

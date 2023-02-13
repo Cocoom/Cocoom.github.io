@@ -34,7 +34,7 @@ A vertical menu allows you to access :
 - **Breaking news :**  provides you with an overview of important information in your knowledge base.
 - **my selection**: curation of publications according to the knowledge feeds to which you are subscribed, the management of your subscriptions is done at the top right of this page.
 - **my bookmarks** : all the publications you have marked with a bookmark.
-- **all the threads available** in your base.
+- **all the channels available** in your base.
 
 Each view allows you to filter the information and has a shortcut for publication.
 

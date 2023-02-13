@@ -34,22 +34,22 @@ In this tab, you can see all the publications of all users.
 
 ![](https://paper-attachments.dropbox.com/s_33DB8C50A65C2FB0F56B8E23D80EB4FDD5ADB7B9A9A15F5473F1D87424ECDED7_1589102919573_Plan+de+travail+44cocoom-guides-2.png)
 
-## Threads = Structure 🎓
+## Channels = Structure 🎓
 
-Your Cocoom visual knowledge base is organized in #thematic threads.
+Your Cocoom visual knowledge base is organized in #thematic channels.
 
-These #threads are the categories of knowledge that you will be able to associate to teams and add in the tabs. If you have administrator rights, you can modify the structure of your knowledge base to :
+These #channels are the categories of knowledge that you will be able to associate to teams and add in the tabs. If you have administrator rights, you can modify the structure of your knowledge base to :
 
-👉 add, modify or delete #thematic threads
+👉 add, modify or delete #thematic channels
 
 ![](https://paper-attachments.dropbox.com/s_33DB8C50A65C2FB0F56B8E23D80EB4FDD5ADB7B9A9A15F5473F1D87424ECDED7_1589102982203_Plan+de+travail+12cocoom-guides-3.png)
 
-A #thematic thread consists of :
+A #thematic channel consists of :
 
-- 🔗 Name : it needs a short and evocative name, spaces are allowed and you can add emojis in the thread name
-- 📄 Description : a short text that helps other members of the organization to understand the content of this thread of knowledge
-- 🏞 Visual  : you can add a visual to represent the thematic thread, by default the visual takes the color of your thematic thread and a white #.
-- 🎨 Color : your thematic thread is characterized by a main color. This color will be applied automatically in all memos, allowing readers to easily recognize the origin of a memo and to provide graphic consistency. You can select the color from the proposed palette or specify a Hexadecimal color code.
+- 🔗 Name : it needs a short and evocative name, spaces are allowed and you can add emojis in the channel name
+- 📄 Description : a short text that helps other members of the organization to understand the content of this channel of knowledge
+- 🏞 Visual  : you can add a visual to represent the thematic channel, by default the visual takes the color of your thematic channel and a white #.
+- 🎨 Color : your thematic channel is characterized by a main color. This color will be applied automatically in all memos, allowing readers to easily recognize the origin of a memo and to provide graphic consistency. You can select the color from the proposed palette or specify a Hexadecimal color code.
 
 ![](https://paper-attachments.dropbox.com/s_33DB8C50A65C2FB0F56B8E23D80EB4FDD5ADB7B9A9A15F5473F1D87424ECDED7_1589103011543_Plan+de+travail+39cocoom-guides-3.png)
 

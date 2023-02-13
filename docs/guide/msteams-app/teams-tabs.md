@@ -11,7 +11,7 @@ You have direct access to your useful knowledge where you work.
 e.g.: a marketing team adds a tab #⚡️Marketing in its general channel and can thus feed, follow and consult all this knowledge without leaving the team.
 
 **Sharing knowledge between two teams**
-You can share a thematic thread between several teams, this allows you to create knowledge gateways between two or more separate teams.
+You can share a thematic channel between several teams, this allows you to create knowledge gateways between two or more separate teams.
 e.g. the sales team adds a tab #⚡️marketing and can view the latest updates on the marketing team's productions
 
 **Services available within your company**
@@ -29,7 +29,7 @@ To add a Cocoom thematic feed in a channel, you must :
 
 - ➕ add a tab
 - ✔️ select the desired Cocoom knowledge base (if you have a hub)
-- ✔️ select the thematic thread to display
+- ✔️ select the thematic channel to display
 - 🖊 validate or change the name that will appear at the top of the tab
 
 
@@ -43,13 +43,13 @@ To add a Cocoom thematic feed in a channel, you must :
 
 **What you can do in a Cocoom tab :**
 
-📌 **display** **the content of a #thematic thread** :
+📌 **display** **the content of a #thematic channel** :
 ⚠️ only one per tab, but you can add several in the same channel
 
 ![](https://paper-attachments.dropbox.com/s_7F7A3359C2CD338E406B61ED65EB5E366D14EF38656A28063F3537339E3F78F4_1589012136391_Plan+de+travail+29cocoom-guides_EN.png)
 
 
-👀 **read, comment, react** to publications in this thread
+👀 **read, comment, react** to publications in this channel
 As everywhere in Cocoom, via the "card" summary or directly in the publication.
 
 ![](https://paper-attachments.dropbox.com/s_7F7A3359C2CD338E406B61ED65EB5E366D14EF38656A28063F3537339E3F78F4_1589012177603_Plan+de+travail+34cocoom-guides_EN.png)
@@ -64,7 +64,7 @@ The filters are made from the Tags of the publications.
 
 ## Editing Features
 
-✍️ **write publications or shares** in this thread
+✍️ **write publications or shares** in this channel
 the editor is accessible directly in your tabs
 
 ![](https://paper-attachments.dropbox.com/s_7F7A3359C2CD338E406B61ED65EB5E366D14EF38656A28063F3537339E3F78F4_1589012253608_Plan+de+travail+33cocoom-guides_EN.png)

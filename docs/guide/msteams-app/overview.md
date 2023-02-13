@@ -21,7 +21,7 @@ The app allows you to link your Cocoom visual knowledge base in Microsoft Teams 
 
 ⇢ [Get access to your personal space](personal-app)
 
-- 🎓 **Organize** all your knowledge and info with #threads and structured tags
+- 🎓 **Organize** all your knowledge and info with #channels and structured tags
 
 ⇢ [Administrate content (Cocoom Administrators-restricted section)](administration)
 

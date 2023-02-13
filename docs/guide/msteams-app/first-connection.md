@@ -17,7 +17,7 @@ This is essential to move on further more.
 
 ## Choose your subscriptions
 
-Your subscriptions are the Cocoom thematic threads that you wish to follow more closely.
+Your subscriptions are the Cocoom thematic channels that you wish to follow more closely.
 
 When you select a feed from this list, all the publications it contains are in your selection:
 **"knowledge base" tab > my selection**

@@ -3,13 +3,13 @@
 This section discusses in detail all the intricacies of consulting and interacting with publications and shares.
 
 
-## Navigate with Threads
+## Navigate with Channels
 
-The thematic threads are used to navigate within Cocoom. They allow you to filter knowledge into different categories.
+The thematic channels are used to navigate within Cocoom. They allow you to filter knowledge into different categories.
 
-A publication or a share must be linked to a single thematic thread.
+A publication or a share must be linked to a single thematic channel.
 
-A thematic thread is characterized by :
+A thematic channel is characterized by :
 
 - name
 - description (optional)
@@ -23,7 +23,7 @@ Cocoom thematic feeds are visible within Microsoft teams in :
 
 
 - the Personal App: my knowledge base in the headlines
-- team tabs: individual tab with a thematic thread
+- team tabs: individual tab with a thematic channel
 -
 
 The management of the thematic feeds is done by an Administrator in the Administration area of the personal App.
@@ -33,14 +33,14 @@ The management of the thematic feeds is done by an Administrator in the Administ
 
 Tags allow filtering through a second level of specification for publications and shares.
 
-The tags are not linked to a thematic thread, they can be transversal to all publications.
+The tags are not linked to a thematic channel, they can be transversal to all publications.
 
-The filter button, present on all thematic thread views, allows to filter with tags.
+The filter button, present on all thematic channel views, allows to filter with tags.
 
 ![](https://paper-attachments.dropbox.com/s_568741656B1020E6AA896AE44FB3D1B13C1626C557B6AF60EB311425D1984969_1589017966795_Plan+de+travail+36cocoom-guides_EN.png)
 
 
-⚠️ **This button displays all the tags for your knowledge base, it is not specific to a thematic thread. You can therefore have an empty result following the application of a tag on a thematic thread if the tag is not used in this thread. We are working to offer you a dynamic filter.**
+⚠️ **This button displays all the tags for your knowledge base, it is not specific to a thematic channel. You can therefore have an empty result following the application of a tag on a thematic channel if the tag is not used in this channel. We are working to offer you a dynamic filter.**
 
 The tag structure is managed by an administrator in the administration area of the personal App.
 
