@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{281:function(e,t,n){"use strict";n.r(t);var o={name:"Redirect",props:{to:{type:String,required:!0}},beforeMount(){document.location.replace(this.to)}},r=n(10),i=Object(r.a)(o,(function(){return(0,this._self._c)("div")}),[],!1,null,null,null);t.default=i.exports}}]);
