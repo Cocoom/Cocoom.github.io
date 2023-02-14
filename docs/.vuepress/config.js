@@ -185,16 +185,6 @@ function getGuideMSTeamsApp_Subdirectory(parentPath, language, collapsable = fal
       prefix + '/publish',
       prefix + '/administration',
       prefix + '/notifications'
-      /*
-      getSideBarItem(language, 'first-connection', [prefix + '/first-connection'], collapsable, depth),
-      getSideBarItem(language, 'personal-app', [prefix + '/personal-app'], collapsable, depth),
-
-      getSideBarItem(language, 'teams-tabs', [prefix + '/teams-tabs'], collapsable, depth),
-      getSideBarItem(language, 'consult', [prefix + '/consult'], collapsable, depth),
-      getSideBarItem(language, 'publish', [prefix + '/publish'], collapsable, depth),
-      getSideBarItem(language, 'administration', [prefix + '/administration'], collapsable, depth),
-      getSideBarItem(language, 'notifications', [prefix + '/notifications'], collapsable, depth),
-      */
     ],
     collapsable, depth
   );
