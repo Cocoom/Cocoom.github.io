@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "vuepress dev docs",
-    "build": "vuepress build docs && touch docs/.vuepress/dist/.nojekyll && echo \"help.cocoom.com\" > docs/.vuepress/dist/CNAME",
+    "build": "NODE_ENV=production vuepress build docs && touch docs/.vuepress/dist/.nojekyll && echo \"help.cocoom.com\" > docs/.vuepress/dist/CNAME",
     "serve-dist": "vuepress build docs && serve docs/.vuepress/dist"
   },
   "author": "Cocoom",
