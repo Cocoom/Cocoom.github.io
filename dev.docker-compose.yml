@@ -1,0 +1,19 @@
+networks:
+  default_network:
+    external: true
+    name: cocoom_dev_network
+
+services:
+  cocoom-faq:
+    build:
+      context: .
+      dockerfile: dev.Dockerfile
+    ports:
+      - 8090:8090
+    volumes:
+      - .:/usr/local/cocoom
+    networks:
+      - default_network
+    environment:
+      - PORT=8090
+    command: npm run ${CMD}

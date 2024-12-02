@@ -1,6 +1,7 @@
 {
   "name": "cocoom-faq",
-  "version": "1.4.8",
+  "dockername": "cocoom-faq",
+  "version": "1.4.9",
   "description": "",
   "dependencies": {
     "vuepress-theme-book": "0.0.9"
