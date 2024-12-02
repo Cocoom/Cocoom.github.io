@@ -15,7 +15,7 @@ In the last case, Microsoft Stream (which is offered with a Office365 business s
 
 ### YouTube
 
-YouTube allows you to play a public or "unlisted" video (accessible through a URL that can be used by Cocoom) : [Documentation link](https://support.google.com/youtube/answer/157177)
+YouTube allows you to play a public or `Unlisted` video (accessible through a URL that can be used by Cocoom) : [Documentation link](https://support.google.com/youtube/answer/157177)
 
 ![](/img/en/faq/add-video/youtube-share.png)
 
@@ -69,4 +69,4 @@ Thanks to the web link you got from one of the 3 video platforms, Cocoom allows 
 ![Video URL input box](https://paper-attachments.dropbox.com/s_1DE90A4B8092350BE485AB7F1C2FEF1069692FC205E84DC3C08378A09E71B10D_1610036279761_video-url-edit.png)
 
 
-4. Click the "OK" button. The new video appears in the Cocoom video block.
+4. Click the `OK` button. The new video appears in the Cocoom video block.
