@@ -49,24 +49,21 @@ Microsoft Stream allows you to share private videos to your organization (Cocoom
 ![](/img/en/faq/add-video/stream-embedded-player-url.png)
 
 
-## Cocoom usage
+## How it's used in Cocoom
 
 Thanks to the web link you got from one of the 3 video platforms, Cocoom allows you to play this video using to the `video` block you can find among the list of blocks in Cocoom editor.
 
 ![Video block ("Illustrate" category)](https://paper-attachments.dropbox.com/s_1DE90A4B8092350BE485AB7F1C2FEF1069692FC205E84DC3C08378A09E71B10D_1610035892515_video-block.png)
 
 
-1. Drag and drop the video block into the editor, within your publication being edited.
-
+1. Drag-and-drop the video block into the editor, within your publication being edited.
 
 2. To edit the video, click on the `Edit` button.
 
 ![Video update button](https://paper-attachments.dropbox.com/s_1DE90A4B8092350BE485AB7F1C2FEF1069692FC205E84DC3C08378A09E71B10D_1610094865086_Capture+decran+2021-01-08+a+09.31.42.png)
 
-
 3. Paste the URL of the link of the video you have chosen to play in Cocoom
 
 ![Video URL input box](https://paper-attachments.dropbox.com/s_1DE90A4B8092350BE485AB7F1C2FEF1069692FC205E84DC3C08378A09E71B10D_1610036279761_video-url-edit.png)
-
 
 4. Click the `OK` button. The new video appears in the Cocoom video block.
