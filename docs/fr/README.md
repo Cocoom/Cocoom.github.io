@@ -3,7 +3,7 @@ home: true
 heroImage: /home-cocoom-visual.png
 actionText: Démarrer →
 actionLink: /fr/introduction/
-footer: Copyright © 2024 Cocoom
+footer: Copyright © 2025 Cocoom
 ---
 
 
